@@ -1,0 +1,146 @@
+[
+    {
+        "url": "http://bit.ly/lista-milton", 
+        "logos": "", 
+        "image": "", 
+        "name": "Canais do Milton [Free]"
+    }, 
+    {
+        "url": "http://bit.ly/jorgedejorge_tv", 
+        "logos": "", 
+        "image": "", 
+        "name": "Jorge de Jorge"
+    }, 
+    {
+        "url": "http://bit.ly/lista-pjt", 
+        "logos": "", 
+        "image": "", 
+        "name": "Pedro Junior Tutorias"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/dhHM8x77", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista IPTV Aleatoria"
+    }, 
+    {
+        "url": "http://bit.ly/CANAIS_TV", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista IPTV"
+    }, 
+    {
+        "url": "http://bit.ly/2blRuZF", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista Alessandro Ramos"
+    }, 
+    {
+        "url": "http://j.mp/igorlista", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista IPTV Igor Rangel"
+    }, 
+    {
+        "url": "http://pastebin.com/xR3giv0W", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista Lua Sergio"
+    }, 
+    {
+        "url": "http://bit.ly/IPTVBRHD", 
+        "logos": "", 
+        "image": "", 
+        "name": "Lista IPTV BR HD"
+    }, 
+    {
+        "url": "http://bit.ly/SPORTHD", 
+        "logos": "", 
+        "image": "", 
+        "name": "Sport TV [HD]"
+    }, 
+    {
+        "url": "http://www.fusaka.com.br/agenor", 
+        "logos": "", 
+        "image": "", 
+        "name": "Fusaka IPTV"
+    }, 
+    {
+        "url": "http://goo.gl/0jZdVp", 
+        "logos": "", 
+        "image": "", 
+        "name": "Canais Cristao"
+    }, 
+    {
+        "url": "http://bit.ly/DESENHOS_JORGEDEJORGE", 
+        "logos": "", 
+        "image": "", 
+        "name": "Desenhos Jorge de Jorge"
+    }, 
+    {
+        "url": "http://bit.ly/2bvy8Si", 
+        "logos": "", 
+        "image": "", 
+        "name": "Filmes Jorge de Jorge"
+    }, 
+    {
+        "url": "http://bit.ly/SeriesSD", 
+        "logos": "", 
+        "image": "", 
+        "name": "Series SD"
+    }, 
+    {
+        "url": "http://bit.ly/CINELEG", 
+        "logos": "", 
+        "image": "", 
+        "name": "Filmes Cine Legendado"
+    }, 
+    {
+        "url": "http://pastebin.com/KBvnNwbD", 
+        "logos": "", 
+        "image": "", 
+        "name": "Listas Lua Sergio"
+    }, 
+    {
+        "url": "http://pastebin.com/SwWmYUwN", 
+        "logos": "", 
+        "image": "", 
+        "name": "Series do Lua Sergio"
+    }, 
+    {
+        "url": "http://bit.ly/DROIDSERIES", 
+        "logos": "", 
+        "image": "", 
+        "name": "Droid Series"
+    }, 
+    {
+        "url": "http://bit.ly/DROIDFILME", 
+        "logos": "", 
+        "image": "", 
+        "name": "Droid Filmes"
+    }, 
+    {
+        "url": "http://bit.ly/CinemaIPTV", 
+        "logos": "", 
+        "image": "", 
+        "name": "Filmes CINE HD"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/DJVg8ZwV", 
+        "logos": "", 
+        "image": "", 
+        "name": "Filmes Diversos"
+    }, 
+    {
+        "url": "http://pastebin.com/raw/EVT6GVmn", 
+        "logos": "", 
+        "image": "", 
+        "name": "Filmes HD"
+    }, 
+    {
+        "url": "https://gist.githubusercontent.com/fuarkz/a4671a3df1ad305f0479bc2d5663fdf6/raw/02930E0DFOJKSDC.m3u", 
+        "logos": "", 
+        "image": "", 
+        "name": "Series e Filmes"
+    }
+]

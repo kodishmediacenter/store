@@ -1,0 +1,5 @@
+name="Brazil TVS"
+url="https://www.dropbox.com/s/ly87enkdn18ycbj/BuildBrazilTV.zip?dl=0"
+img="https://ia801504.us.archive.org/11/items/04a986ceBac24b18Ace1F3ec4bed3d47/04a986ce-bac2-4b18-ace1-f3ec4bed3d47.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Build"
