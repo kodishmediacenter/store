@@ -1,0 +1,20 @@
+[
+    {
+        "url": "http://pastebin.com/SjCwaXiV", 
+        "logos": "http://2.bp.blogspot.com/-4g0cDO2loRI/VhqF0rihqdI/AAAAAAAACsE/CmT3nikVFjc/s1600/S36rZFMtoc-AAYhoAAIyIV6Hxxg421.png/", 
+        "image": "http://2.bp.blogspot.com/-4g0cDO2loRI/VhqF0rihqdI/AAAAAAAACsE/CmT3nikVFjc/s1600/S36rZFMtoc-AAYhoAAIyIV6Hxxg421.png", 
+        "name": "Lista IPTV SD e HD"
+    }, 
+    {
+        "url": "http://pastebin.com/2UQM77aS", 
+        "logos": "http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png/", 
+        "image": "http://3.bp.blogspot.com/-O6Z7LDxjTQ0/VQMt2NzHxVI/AAAAAAAABIo/1ubKLOGmM3Y/s1600/mzl.knrwtelm.png", 
+        "name": "IPTV Portugal"
+    }, 
+    {
+        "url": "http://pastebin.com/VWmEy2WG", 
+        "logos": "http://www.viralata.tv.br/blog/wp-content/uploads/2016/10/blog-viralata-13.png/", 
+        "image": "http://www.viralata.tv.br/blog/wp-content/uploads/2016/10/blog-viralata-13.png", 
+        "name": "VOD IPTV - Filmes"
+    }
+]

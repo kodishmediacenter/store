@@ -1,0 +1,1052 @@
+[
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/87.ts", 
+        "image": "", 
+        "name": "A&amp;E"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/527.ts", 
+        "image": "", 
+        "name": "A&amp;E HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/340.ts", 
+        "image": "", 
+        "name": "ALL SPORTS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/343.ts", 
+        "image": "", 
+        "name": "AMAZONSAT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/86.ts", 
+        "image": "", 
+        "name": "ANIMAL PLANET"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/295.ts", 
+        "image": "", 
+        "name": "ANIMAL PLANET HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/161.ts", 
+        "image": "", 
+        "name": "APARECIDA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/160.ts", 
+        "image": "", 
+        "name": "ARTE 1"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/85.ts", 
+        "image": "", 
+        "name": "AXN"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/504.ts", 
+        "image": "", 
+        "name": "AXN HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/88.ts", 
+        "image": "", 
+        "name": "BAND"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/296.ts", 
+        "image": "", 
+        "name": "BAND HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/350.ts", 
+        "image": "", 
+        "name": "BAND ALTERNATIVO"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/84.ts", 
+        "image": "", 
+        "name": "BAND SPORT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/534.ts", 
+        "image": "", 
+        "name": "BAND SPORT HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/89.ts", 
+        "image": "", 
+        "name": "BAND NEWS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/287.ts", 
+        "image": "", 
+        "name": "BIG BROTHER BRASIL HD - CAMERA 1"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/83.ts", 
+        "image": "", 
+        "name": "BIS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/535.ts", 
+        "image": "", 
+        "name": "BIS HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/90.ts", 
+        "image": "", 
+        "name": "BOOMERANG"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/511.ts", 
+        "image": "", 
+        "name": "BOOMERANG HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/159.ts", 
+        "image": "", 
+        "name": "CANAL BRASIL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/158.ts", 
+        "image": "", 
+        "name": "CANAL RURAL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/157.ts", 
+        "image": "", 
+        "name": "CANCAO NOVA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/82.ts", 
+        "image": "", 
+        "name": "CARTOON NETWORK"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/503.ts", 
+        "image": "", 
+        "name": "CARTOON NETWORK HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/91.ts", 
+        "image": "", 
+        "name": "CINEMAX"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/155.ts", 
+        "image": "", 
+        "name": "CURTA!"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/135.ts", 
+        "image": "", 
+        "name": "COMBATE"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/136.ts", 
+        "image": "", 
+        "name": "COMBATE HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/156.ts", 
+        "image": "", 
+        "name": "COMEDY CENTRAL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/81.ts", 
+        "image": "", 
+        "name": "CULTURA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/96.ts", 
+        "image": "", 
+        "name": "DISNEY CHANNEL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/80.ts", 
+        "image": "", 
+        "name": "DISCOVERY CHANNEL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/288.ts", 
+        "image": "", 
+        "name": "DISCOVERY CHANNEL HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/79.ts", 
+        "image": "", 
+        "name": "DISCOVERY CIVILIZATION"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/92.ts", 
+        "image": "", 
+        "name": "DISCOVERY HOME &amp; HELT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/297.ts", 
+        "image": "", 
+        "name": "DISCOVERY H&amp;H HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/93.ts", 
+        "image": "", 
+        "name": "DISCOVERY KIDS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/506.ts", 
+        "image": "", 
+        "name": "DISCOVERY KIDS HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/94.ts", 
+        "image": "", 
+        "name": "DISCOVERY SCIENCE"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/95.ts", 
+        "image": "", 
+        "name": "DSICOVERY TURBO"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/298.ts", 
+        "image": "", 
+        "name": "DISCOVERY TURBO HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/537.ts", 
+        "image": "", 
+        "name": "DISCOVERY WORLD HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/97.ts", 
+        "image": "", 
+        "name": "DISNEY JR"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/507.ts", 
+        "image": "", 
+        "name": "DISNEY JR HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/98.ts", 
+        "image": "", 
+        "name": "DISNEY XD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/519.ts", 
+        "image": "", 
+        "name": "DISNEY XD HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/99.ts", 
+        "image": "", 
+        "name": "E!"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/100.ts", 
+        "image": "", 
+        "name": "EIMAX"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/300.ts", 
+        "image": "", 
+        "name": "EI MAXX HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/43.ts", 
+        "image": "", 
+        "name": "EIMAX 2"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/299.ts", 
+        "image": "", 
+        "name": "EI MAXX 2 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/77.ts", 
+        "image": "", 
+        "name": "ESPN"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/101.ts", 
+        "image": "", 
+        "name": "ESPN BRASIL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/301.ts", 
+        "image": "", 
+        "name": "ESPN BRASIL HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/486.ts", 
+        "image": "", 
+        "name": "ESPN + HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/42.ts", 
+        "image": "", 
+        "name": "ESPORTE INTERATIVO HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/333.ts", 
+        "image": "", 
+        "name": "FILMES 24H"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/162.ts", 
+        "image": "", 
+        "name": "FISH TV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/173.ts", 
+        "image": "", 
+        "name": "FOOD NETWORK"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/75.ts", 
+        "image": "", 
+        "name": "FOX"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/291.ts", 
+        "image": "", 
+        "name": "FOX HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/302.ts", 
+        "image": "", 
+        "name": "FOX 1 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/303.ts", 
+        "image": "", 
+        "name": "FOX ACTION HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/74.ts", 
+        "image": "", 
+        "name": "FOX LIFE"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/539.ts", 
+        "image": "", 
+        "name": "FOX LIFE HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/73.ts", 
+        "image": "", 
+        "name": "FOX SPORT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/304.ts", 
+        "image": "", 
+        "name": "FOX SPORT HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/72.ts", 
+        "image": "", 
+        "name": "FOX SPORT 2"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/518.ts", 
+        "image": "", 
+        "name": "FOX SPORT 2 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/103.ts", 
+        "image": "", 
+        "name": "FX"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/513.ts", 
+        "image": "", 
+        "name": "FX HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/102.ts", 
+        "image": "", 
+        "name": "FUTURA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/294.ts", 
+        "image": "", 
+        "name": "GLOBO INTERNACIONAL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/71.ts", 
+        "image": "", 
+        "name": "GLOBO NEWS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/510.ts", 
+        "image": "", 
+        "name": "GLOBO NEWS HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/329.ts", 
+        "image": "", 
+        "name": "GLOBO RJ HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/170.ts", 
+        "image": "", 
+        "name": "GLOBO MG HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/351.ts", 
+        "image": "", 
+        "name": "GLOBO SP"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/528.ts", 
+        "image": "", 
+        "name": "GLOBO SP HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/70.ts", 
+        "image": "", 
+        "name": "GLOOB"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/105.ts", 
+        "image": "", 
+        "name": "GNT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/541.ts", 
+        "image": "", 
+        "name": "GNT HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/106.ts", 
+        "image": "", 
+        "name": "H2"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/523.ts", 
+        "image": "", 
+        "name": "H2 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/69.ts", 
+        "image": "", 
+        "name": "HBO"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/306.ts", 
+        "image": "", 
+        "name": "HBO HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/107.ts", 
+        "image": "", 
+        "name": "HBO 2"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/305.ts", 
+        "image": "", 
+        "name": "HBO 2 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/109.ts", 
+        "image": "", 
+        "name": "HISTORY"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/108.ts", 
+        "image": "", 
+        "name": "HBO FAMILY"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/524.ts", 
+        "image": "", 
+        "name": "HBO FAMILY HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/68.ts", 
+        "image": "", 
+        "name": "HBO PLUS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/525.ts", 
+        "image": "", 
+        "name": "HBO PLUS HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/352.ts", 
+        "image": "", 
+        "name": "HBO PLUS E"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/67.ts", 
+        "image": "", 
+        "name": "HBO SIGNATURE"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/290.ts", 
+        "image": "", 
+        "name": "HISTORY HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/166.ts", 
+        "image": "", 
+        "name": "I-SAT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/110.ts", 
+        "image": "", 
+        "name": "ID"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/508.ts", 
+        "image": "", 
+        "name": "ID HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/153.ts", 
+        "image": "", 
+        "name": "IDEALTV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/152.ts", 
+        "image": "", 
+        "name": "LIFETIME"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/342.ts", 
+        "image": "", 
+        "name": "LIVRE TV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/151.ts", 
+        "image": "", 
+        "name": "MAIS GLOBOSAT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/111.ts", 
+        "image": "", 
+        "name": "MAX"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/112.ts", 
+        "image": "", 
+        "name": "MAX PRIME"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/353.ts", 
+        "image": "", 
+        "name": "MAX PRIME E"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/172.ts", 
+        "image": "", 
+        "name": "MAX PRIME PLUS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/66.ts", 
+        "image": "", 
+        "name": "MAX UP"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/113.ts", 
+        "image": "", 
+        "name": "MEGAPIX"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/505.ts", 
+        "image": "", 
+        "name": "MEGAPIX HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/341.ts", 
+        "image": "", 
+        "name": "MIX TV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/114.ts", 
+        "image": "", 
+        "name": "MULTISHOW"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/514.ts", 
+        "image": "", 
+        "name": "MULTISHOW HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/150.ts", 
+        "image": "", 
+        "name": "MUSIC BOX BRASIL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/65.ts", 
+        "image": "", 
+        "name": "MTV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/115.ts", 
+        "image": "", 
+        "name": "NAT GEO"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/307.ts", 
+        "image": "", 
+        "name": "NAT GEO HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/354.ts", 
+        "image": "", 
+        "name": "NAT GEO WILD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/520.ts", 
+        "image": "", 
+        "name": "NAT GEO WILD HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/116.ts", 
+        "image": "", 
+        "name": "NICK"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/117.ts", 
+        "image": "", 
+        "name": "NICK JR."
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/526.ts", 
+        "image": "", 
+        "name": "NICK JR HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/355.ts", 
+        "image": "", 
+        "name": "NHK"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/149.ts", 
+        "image": "", 
+        "name": "NBR"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/171.ts", 
+        "image": "", 
+        "name": "NOVO TEMPO"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/64.ts", 
+        "image": "", 
+        "name": "OFF"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/529.ts", 
+        "image": "", 
+        "name": "OFF HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/63.ts", 
+        "image": "", 
+        "name": "PARAMOUNT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/543.ts", 
+        "image": "", 
+        "name": "PARAMOUNT HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/62.ts", 
+        "image": "", 
+        "name": "PLAYBOY"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/148.ts", 
+        "image": "", 
+        "name": "PLAY TV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/123.ts", 
+        "image": "", 
+        "name": "PREMIERE CLUBES"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/312.ts", 
+        "image": "", 
+        "name": "PREMIERE CLUBES HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/118.ts", 
+        "image": "", 
+        "name": "PREMIERE 2"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/308.ts", 
+        "image": "", 
+        "name": "PREMIERE 2 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/119.ts", 
+        "image": "", 
+        "name": "PREMIERE 3"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/309.ts", 
+        "image": "", 
+        "name": "PREMIERE 3 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/120.ts", 
+        "image": "", 
+        "name": "PREMIERE 4"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/310.ts", 
+        "image": "", 
+        "name": "PREMIERE 4 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/59.ts", 
+        "image": "", 
+        "name": "PREMIERE 5"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/311.ts", 
+        "image": "", 
+        "name": "PREMIERE 5 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/61.ts", 
+        "image": "", 
+        "name": "PREMIERE 6"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/121.ts", 
+        "image": "", 
+        "name": "PREMIERE 7"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/60.ts", 
+        "image": "", 
+        "name": "PREMIERE 8"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/122.ts", 
+        "image": "", 
+        "name": "PREMIERE 9"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/147.ts", 
+        "image": "", 
+        "name": "PRIME BOX BRASIL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/178.ts", 
+        "image": "", 
+        "name": "RBI"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/179.ts", 
+        "image": "", 
+        "name": "RBS TV PORTO ALEGRE"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/58.ts", 
+        "image": "", 
+        "name": "RECORD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/313.ts", 
+        "image": "", 
+        "name": "RECORD HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/57.ts", 
+        "image": "", 
+        "name": "RECORD NEWS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/146.ts", 
+        "image": "", 
+        "name": "REDE BRASIL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/124.ts", 
+        "image": "", 
+        "name": "REDE TV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/516.ts", 
+        "image": "", 
+        "name": "REDE TV HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/145.ts", 
+        "image": "", 
+        "name": "REDE VIDA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/180.ts", 
+        "image": "", 
+        "name": "RIT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/47.ts", 
+        "image": "", 
+        "name": "SBT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/314.ts", 
+        "image": "", 
+        "name": "SBT HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/55.ts", 
+        "image": "", 
+        "name": "SEXY HOT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/56.ts", 
+        "image": "", 
+        "name": "SEXTREME"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/144.ts", 
+        "image": "", 
+        "name": "SIC INTERNACIONAL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/125.ts", 
+        "image": "", 
+        "name": "SONY"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/517.ts", 
+        "image": "", 
+        "name": "SONY HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/126.ts", 
+        "image": "", 
+        "name": "SPACE"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/512.ts", 
+        "image": "", 
+        "name": "SPACE HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/127.ts", 
+        "image": "", 
+        "name": "SPORTV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/317.ts", 
+        "image": "", 
+        "name": "SPORTV HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/54.ts", 
+        "image": "", 
+        "name": "SPORTV 2"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/315.ts", 
+        "image": "", 
+        "name": "SPORTV 2 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/128.ts", 
+        "image": "", 
+        "name": "SPORTV 3"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/316.ts", 
+        "image": "", 
+        "name": "SPORTV 3 HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/142.ts", 
+        "image": "", 
+        "name": "SPORTV ALTERNATIVO"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/143.ts", 
+        "image": "", 
+        "name": "SPORTV 2 ALTERNATIVO"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/129.ts", 
+        "image": "", 
+        "name": "STUDIO UNIVERSAL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/141.ts", 
+        "image": "", 
+        "name": "SYFY"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/137.ts", 
+        "image": "", 
+        "name": "TV BRASIL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/184.ts", 
+        "image": "", 
+        "name": "TV RATIMBUM"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/185.ts", 
+        "image": "", 
+        "name": "TV VERDES MARES FORTALEZA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/130.ts", 
+        "image": "", 
+        "name": "TBS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/41.ts", 
+        "image": "", 
+        "name": "TCM"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/51.ts", 
+        "image": "", 
+        "name": "TELECINE PREMIUM"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/321.ts", 
+        "image": "", 
+        "name": "TELECINE PREMIUM HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/53.ts", 
+        "image": "", 
+        "name": "TELECINE ACTION"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/318.ts", 
+        "image": "", 
+        "name": "TELECINE ACTION HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/132.ts", 
+        "image": "", 
+        "name": "TELECINE PIPOCA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/320.ts", 
+        "image": "", 
+        "name": "TELECINE PIPOCA HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/50.ts", 
+        "image": "", 
+        "name": "TELECINE TOUCH"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/521.ts", 
+        "image": "", 
+        "name": "TELECINE TOUCH HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/131.ts", 
+        "image": "", 
+        "name": "TELECINE FUN"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/319.ts", 
+        "image": "", 
+        "name": "TELECINE FUN HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/52.ts", 
+        "image": "", 
+        "name": "TELECINE CULT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/181.ts", 
+        "image": "", 
+        "name": "TERRA VIVA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/133.ts", 
+        "image": "", 
+        "name": "TLC"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/522.ts", 
+        "image": "", 
+        "name": "TLC HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/49.ts", 
+        "image": "", 
+        "name": "TNT"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/322.ts", 
+        "image": "", 
+        "name": "TNT HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/140.ts", 
+        "image": "", 
+        "name": "TNT SERIES"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/545.ts", 
+        "image": "", 
+        "name": "TNT SERIES HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/139.ts", 
+        "image": "", 
+        "name": "TOONCAST"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/138.ts", 
+        "image": "", 
+        "name": "TRUTV"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/357.ts", 
+        "image": "", 
+        "name": "TVE"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/48.ts", 
+        "image": "", 
+        "name": "UNIVERSAL"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/46.ts", 
+        "image": "", 
+        "name": "VIVA"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/515.ts", 
+        "image": "", 
+        "name": "VIVA HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/165.ts", 
+        "image": "", 
+        "name": "VH1 MEGA HITS"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/45.ts", 
+        "image": "", 
+        "name": "WARNER"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/509.ts", 
+        "image": "", 
+        "name": "WARNER HD"
+    }, 
+    {
+        "url": "http://151.80.27.111:25461/live/login/senha/134.ts</textarea>", 
+        "image": "", 
+        "name": "WOOHOO"
+    }
+]
