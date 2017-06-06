@@ -125,18 +125,6 @@ img="https://www.tvaddons.ag/kodi-addons/cache/images/6fbfa8eb76df35b049b6b27db1
 fanart="https://i.ytimg.com/vi/szecI8zRoj8/maxresdefault.jpg"
 description="Não necessidade de fresh start"
 
-name="Roger Stream Repo (New)"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/addons3rd/rogger.repository.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/addons3rd/icon-rogger.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Youtube (New Update)"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/youtube-releases/5.3.7/plugin.video.youtube.zip"
-img="https://raw.githubusercontent.com/Kolifanes/plugin.video.youtube/master/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="History World [Bruno Holanda]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/Bruno_Holanda/plugin.video.HISTORY%20WORLD.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/Bruno_Holanda/icon-HW.png"
@@ -326,18 +314,6 @@ description="Não necessidade de fresh start"
 name="Pegadinhas do Silvio Santos"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/plugin.video.pegadinhasdosilviosantos.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.video.pegadinhasdosilviosantos/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Playlist Loader (Dependencia)"
-url="https://raw.githubusercontent.com/listamilton/supermilton.repository/supermilton.repository/repo/plugin.video.playlistLoader/plugin.video.playlistLoader-1.0.6.zip"
-img="https://raw.githubusercontent.com/listamilton/supermilton.repository/supermilton.repository/plugin.video.playlistLoader/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Cinetube (Joao Filho)"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/3rd/repokey-fab/plugin.video.tunel.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/3rd/repokey-fab/icon.tunel.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
