@@ -40,24 +40,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/sky%20onli
 fanart="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
 description="Não necessidade de fresh start"
 
-name="Telecine On quasar"
-url="https://archive.org/download/plugin.video.telecineon_201706/nquasar/plugin.video.telecineon.zip"
-img="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
-fanart="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
-description="Não necessidade de fresh start"
-
-name="Telecine On Pulsar"
-url="https://archive.org/download/plugin.video.telecineon_201706/pulsar/plugin.video.telecineon.zip"
-img="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
-fanart="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
-description="Não necessidade de fresh start"
-
-name="Telecine On Yatp"
-url="https://archive.org/download/plugin.video.telecineon_201706/nyatp/plugin.video.telecineon.zip"
-img="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
-fanart="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
-description="Não necessidade de fresh start"
-
 name="Torrent Br (Repo Update Rudi Cesar)"
 url="https://github.com/torrentbr/kodi/raw/master/repo.zip"
 img="https://inovatv2018.tk/LOGOS/iconrudi222.png"
@@ -171,12 +153,6 @@ name="The Master Invencoes"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/20012017/plugin.video.TheMasterInvencoes.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/20012017/icon-TheMasterInvencoes.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Quasar 0.9.57 (Dependencia)"
-url="https://github.com/scakemyer/plugin.video.quasar/releases/download/v0.9.57/plugin.video.quasar-0.9.57.zip"
-img="https://www.tvaddons.ag/kodi-addons/cache/images/6fbfa8eb76df35b049b6b27db198f1_icon.png"
-fanart="https://i.ytimg.com/vi/szecI8zRoj8/maxresdefault.jpg"
 description="Não necessidade de fresh start"
 
 name="Addon Cimorelli"
