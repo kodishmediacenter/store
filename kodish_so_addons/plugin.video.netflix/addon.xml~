@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.crunchyrollc" name="crunchyroll Clone" version="1.0.0" provider-name="House Geek">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.pydevd" version="2.1.0" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Assista o seus animes favoritos aqui </summary>
+        <language></language>
+        <description lang="en">Esse para fans de animes e niponicos fans animes e series crunchyroll Clone</description>
+        <license></license>
+        <source></source>
+        <forum></forum>
+        <email></email>
+        <website></website>
+    </extension>
+</addon>

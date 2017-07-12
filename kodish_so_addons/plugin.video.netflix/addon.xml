@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.netflix" name="Netflix" version="1.0.0" provider-name="KodishMC">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.pydevd" version="2.1.0" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Assista filmes e series direto desse laucher </summary>
+        <language></language>
+        <description lang="en">Assista filmes e series direto desse laucher</description>
+        <license></license>
+        <source></source>
+        <forum></forum>
+        <email></email>
+        <website></website>
+    </extension>
+</addon>

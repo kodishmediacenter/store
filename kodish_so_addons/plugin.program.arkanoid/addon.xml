@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.program.arkanoid" name="Arkanoid" version="1.0.0" provider-name="Kodish MC">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.pydevd" version="2.1.0" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Launch Arkanoid from Kodi for MS-DOS</summary>
+        <language></language>
+        <description lang="en">Launch Arkanoid from Kodi for MS-DOS</description>
+        <license></license>
+        <source></source>
+        <forum></forum>
+        <email></email>
+        <website></website>
+    </extension>
+</addon>
