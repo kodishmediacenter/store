@@ -1,0 +1,17 @@
+name="Arkanoid [Kodish SO 4.0]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodish_so_addons/plugin.program.arkanoid.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodish_so_addons/icon-arkanoid.png"
+fanart=""
+description="Não necessidade de fresh start"
+
+name="Netflix Laucher [Kodish SO 4.0]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodish_so_addons/plugin.video.netflix.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodish_so_addons/icon-netflix.png"
+fanart=""
+description="Não necessidade de fresh start"
+
+name="Kodish Menu [Kodish SO 4.0]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodish_so_addons/plugin.program.kodishmenu.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodish_so_addons/icon-kodishmenu.png"
+fanart=""
+description="Não necessidade de fresh start"
