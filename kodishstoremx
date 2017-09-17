@@ -10,12 +10,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addo
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="GSF VIDEOS [New Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/11092017/plugin.video.gsfvideos.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/geremias/icon-gsf.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="Ladybug TV [New Update]"
 url="https://github.com/kodishmediacenter/store/tree/master/fabio-addons/10092017/plugin.video.miraculus.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/04092017/icon.png"
@@ -223,23 +217,12 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addo
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Turma da Monica [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/plugin.video.turmadamonica.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-turmadamonica.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon que permite ver epsodios turma da monica"
-
 name="Espiritismo [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/plugin.video.espiritismo.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-esperitismo.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Marcio Addon Install (Addons do Marcio)"
-url="http://kodish.esy.es/store/Marcio.repo.store.zip"
-img="http://kodish.esy.es/store/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="Castelo Ra Tim Bum (Video)"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/plugin.video.casteloratimbum.zip"
@@ -292,12 +275,6 @@ description="Não necessidade de fresh start"
 name="Trapalhoes TV"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/plugin.video.TrapalhoesTV.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.video.TrapalhoesTV/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Popaye TV (Geremias Farias)"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/plugin.video.popeye.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.video.popeye/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
