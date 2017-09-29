@@ -1,7 +1,4 @@
-
-
-
-
+<channels>
 <channel>
 <name>[COLOR white][B]O Congresso Brasil Paralelo[/B][/COLOR]</name>
 <thumbnail>https://yt3.ggpht.com/-ZVmanlLOYik/AAAAAAAAAAI/AAAAAAAAAAA/Am_CfwVwO1M/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -15,3 +12,5 @@
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/filesbrp/brasilultimacruzada.xml</externallink>
 <fanart></fanart>
 </channel>
+
+</channels>
