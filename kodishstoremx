@@ -1,3 +1,9 @@
+name="Velberan TV [update]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/plugin.video.velberantv.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/icon-velberan.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
 name="NoCopyrightSounds [Update]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/plugin.video.ncs.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-ncs.png"
@@ -160,6 +166,7 @@ url="http://linekodi.netne.net/plugin.video.LinekodiWizard.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/alison/icon-linekodi.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
+
 
 name="Kodish Kids (Update)"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/18032017/plugin.video.kidskodish.zip"
@@ -352,12 +359,6 @@ description="Não necessidade de fresh start"
 name="Contente TV (Video)"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/plugin.video.contentetv.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/kodish-repo/master/repo/plugin.video.contentetv/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Velberan TV (Video)"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/plugin.video.velberantv.zip"
-img="https://cld.pt/dl/download/4c03edfa-ae49-47dc-9629-aed549bbd0b3/icon-velberan.png?download=true"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
