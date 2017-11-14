@@ -1,0 +1,17 @@
+<channels>
+ 
+<channel>
+<name>[COLOR white][B]TV Ao Vivo[/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/15/items/fabiolmglgeo_gmail_Iptv/iptv.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/CUztZeNt</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+<epg>http://lista.servidorfull.com/epg?k=9AjeaFHcGVmRSx2VzwmRS9UMtZVVwZVZaJ1aXZjTHZFUCRFVYFTRO5EZxQlc1sWYahGWUFXNw0kSkVFV</epg>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Filmes Online[/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/15/items/fabiolmglgeo_gmail_Iptv/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/vod</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+<epg>http://lista.servidorfull.com/epg?k=9AjeaFHcGVmRSx2VzwmRS9UMtZVVwZVZaJ1aXZjTHZFUCRFVYFTRO5EZxQlc1sWYahGWUFXNw0kSkVFV</epg>
+</channel>
