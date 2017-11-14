@@ -1,5 +1,13 @@
 <channels>
- 
+
+<channel>
+<name>[COLOR white]A Lista e Vod São 25,00 Reais podendo ser adquirida http://bit.do/Fabiolmg-Contato[/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/15/items/fabiolmglgeo_gmail_Iptv/iptv.jpg</thumbnail>
+<externallink>https</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+<epg>http://lista.servidorfull.com/epg?k=9AjeaFHcGVmRSx2VzwmRS9UMtZVVwZVZaJ1aXZjTHZFUCRFVYFTRO5EZxQlc1sWYahGWUFXNw0kSkVFV</epg>
+</channel>
+
 <channel>
 <name>[COLOR white][B]TV Ao Vivo[/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
 <thumbnail>https://ia601505.us.archive.org/15/items/fabiolmglgeo_gmail_Iptv/iptv.jpg</thumbnail>
