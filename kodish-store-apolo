@@ -172,12 +172,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/alison/ico
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Repositorio Ares"
-url="http://repo.ares-project.com/magic/repository.aresproject/repository.aresproject.zip"
-img="http://repo.ares-project.com/magic/repository.aresproject/icon.png"
-fanart="http://repo.ares-project.com/magic/repository.aresproject/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="Foliver Repo"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fred/repo/repository.foliver.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fred/repo/icon.png"
@@ -186,13 +180,13 @@ description="Não necessidade de fresh start"
 
 name="Super Repo (Repo-Jarvis)"
 url="http://srp.nu/jarvis/all/superrepo.kodi.jarvis.all-0.7.04.zip"
-img="http://www.redeneobux.com/wp-content/uploads/2015/03/super-repo-repositorio-repository-xbmc-kodi.png"
+img="https://superrepo.org/static/images/icons/original/xrepository.superrepo.org.gotham.all.png.pagespeed.ic.YUuVJb3hRU.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
 name="Super Repo (Repo-Krypton)"
 url="http://srp.nu/krypton/all/superrepo.kodi.krypton.all-0.7.04.zip"
-img="http://www.redeneobux.com/wp-content/uploads/2015/03/super-repo-repositorio-repository-xbmc-kodi.png"
+img="https://superrepo.org/static/images/icons/original/xrepository.superrepo.org.gotham.all.png.pagespeed.ic.YUuVJb3hRU.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
