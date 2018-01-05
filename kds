@@ -1,0 +1,67 @@
+<channels>
+
+<channel>
+<name>[COLOR white][B]KODISH IPTV PREMIUM[/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/15/items/fabiolmglgeo_gmail_Iptv/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/kodishiptv</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+<epg>http://lista.servidorfull.com/epg?k=9AjeaFHcGVmRSx2VzwmRS9UMtZVVwZVZaJ1aXZjTHZFUCRFVYFTRO5EZxQlc1sWYahGWUFXNw0kSkVFV</epg>
+</channel>
+
+<channel>
+<name>[COLOR white][B]FILMES[/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/COyFF82.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/YwY2r5a5</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR white][B]NOVELAS[/B][/COLOR] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/7/items/desenhos_201709/novelas.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/UEt7Kp9j</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR white][B]DOCUMENTARIOS[/B][/COLOR] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia801505.us.archive.org/7/items/desenhos_201709/documentarios.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/stMrFkg3</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR white][B]DESENHOS[/B][/COLOR] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia801505.us.archive.org/7/items/desenhos_201709/desenhos.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/3nqW6fQy</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR white][B]SERIES[/B][/COLOR] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia801505.us.archive.org/7/items/desenhos_201709/series.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/PG54aYE3</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR white][B]ANIMES[/B][/COLOR] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/SqMEa2a.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/NMPZVijz</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR white][B]SKY ON PLUS[/B][/COLOR] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://ia801505.us.archive.org/7/items/desenhos_201709/cinesky.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/skyonplus</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Stand-Up Comedy[/B][/COLOR][COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/NWbeXoA.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/vmcjHLfi</externallink>
+<fanart>https://goo.gl/QaoM6p</fanart>
+</channel>
+
+</channels>
