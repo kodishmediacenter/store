@@ -1,8 +1,33 @@
+name="Batman Desenho 24 Horas[New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/05012018/plugin.video.batmandesenho.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/10072017/icon.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/10072017/icon.png"
+description="Não necessidade de fresh start"
+
 name="Coca Cola Hits [New Kodish]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/29122017/plugin.music.cocacolahits.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/29122017/cocacolahits.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
+
+name="Chaves 24 horas [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/05012018/plugin.video.chaves24horas.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/31082017/icon-chaves24.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Pica Pau 24 Horas [New Update]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/05012018/plugin.video.picapau24horas.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/21082017/icon-picapau24horas.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Dragon Ball Z 24 Horas Organizado [New Update]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/05012018/plugin.video.odragonball24horas.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/07052017/icon-dragonballz24horas.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
 
 name="Kratos Kodi Br [Repo Kratos Team]"
 url="http://kratos-addons-kodish.16mb.com/kractosbr.repository-0.1.zip"
@@ -26,12 +51,6 @@ name="Demagorgon Repo [New cmvac]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/demagorgon/demagorgon.repository-0.0.2.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/demagorgon/icon.png"
 fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/demagorgon/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Batman Desenho 24 Horas[New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/14112017/plugin.video.batmandesenho.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/10072017/icon.png"
-fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/10072017/icon.png"
 description="Não necessidade de fresh start"
 
 name="Miraculus Ladybug [New]"
@@ -76,23 +95,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/guaximin/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Chaves 24 horas [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/31082017/plugin.video.chaves24horas.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/31082017/icon-chaves24.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Pica Pau 24 Horas [New Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/21082017/plugin.video.picapau24horas.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/21082017/icon-picapau24horas.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Dragon Ball Z 24 Horas Organizado [New Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/plugin.video.odragonball24horas.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/07052017/icon-dragonballz24horas.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="Torrent Br [New Update]"
 url="https://raw.githubusercontent.com/torrentbr/kodi/master/plugin.video.TorrentBR.zip"
@@ -100,14 +102,10 @@ img="http://i.imgur.com/wkmHosy.png?1"
 fanart="http://i.imgur.com/wkmHosy.png?1"
 description="Não necessidade de fresh start"
 
-name="Dragon Ball Z 24 Horas [New Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/12082012/plugin.video.dragonball24horas.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/07052017/icon-dragonballz24horas.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
+
 
 name="Simpsons 24 Horas [New Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/12082012/plugin.video.simpsons24horas.zip"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/05012018/plugin.video.simpsons24horas.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/26042017/icon-simpsons.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
