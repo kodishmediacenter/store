@@ -152,11 +152,7 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Não necessidade de fresh start"
 
 
-name="ddurdle [Repo gdrive,outros servicos online]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/ddurdle/repository.ddurdle.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/ddurdle/icon.png"
-fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/Renan/fanart.jpg"
-description="Não necessidade de fresh start"
+
 
 name="Demagorgon Repo [New cmvac]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/demagorgon/demagorgon.repository-0.0.2.zip"
@@ -218,40 +214,10 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/french-dj/
 fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/french-dj/icon.png"
 description="Não necessidade de fresh start"
 
-name="Simple Caz [Repo]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/repository.simplycaz-1.0.2.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/icon.png"
-fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Noobs And Nerds[Repo]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/noobsandnerds/repository.noobsandnerds.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/noobsandnerds/icon-noobsandnerds.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="Sky On Plus"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/sky%20online/plugin.video.skyonplus.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/sky%20online/icon-sky.png"
 fanart="https://ia601500.us.archive.org/8/items/fabiolmglgeo_gmail_Icon_201706/icon.png"
-description="Não necessidade de fresh start"
-
-name="Foliver Repo"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fred/repo/repository.foliver.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fred/repo/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Super Repo (Repo-Jarvis)"
-url="http://srp.nu/jarvis/all/superrepo.kodi.jarvis.all-0.7.04.zip"
-img="https://superrepo.org/static/images/icons/original/xrepository.superrepo.org.gotham.all.png.pagespeed.ic.YUuVJb3hRU.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Super Repo (Repo-Krypton)"
-url="http://srp.nu/krypton/all/superrepo.kodi.krypton.all-0.7.04.zip"
-img="https://superrepo.org/static/images/icons/original/xrepository.superrepo.org.gotham.all.png.pagespeed.ic.YUuVJb3hRU.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
 name="Goose House[New]"
@@ -271,12 +237,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addo
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-cimorelli.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
-
-name="french dj repository [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/french-dj/frenchdj.repository-0.0.1.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/french-dj/icon-frenchdj.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Repositorio Alive HD e Portugal Media Center"
 
 
 name="Espiritismo [New]"
