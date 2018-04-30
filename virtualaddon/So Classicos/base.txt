@@ -1,0 +1,67 @@
+
+ <item>
+ <title>Emocoes Apaixonantes</title>
+ <utube>UCmSwz1kTbklNmOZdiAUN_Yg</utube>
+ <thumbnail>https://yt3.ggpht.com/-GOAYwS4FbVg/AAAAAAAAAAI/AAAAAAAAAAA/M46fex72UXk/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ <item>
+ <title>RSA Music</title>
+ <utube>UC4J156Jz2u_CjEyUSmQgh6g</utube>
+ <thumbnail>https://yt3.ggpht.com/-EOsRKT7nxs8/AAAAAAAAAAI/AAAAAAAAAAA/zz9BQCJ_zFM/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ <item>
+ <title>Master Mix</title>
+ <utube>UCAEGOzJS30ofxReu6gOK_yg</utube>
+ <thumbnail>https://yt3.ggpht.com/-BOgufULKr4o/AAAAAAAAAAI/AAAAAAAAAAA/lFDcEwUnJOA/s240-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ <item>
+ <title>So Saudade</title>
+ <utube>UCWlnyfbBxAVRtcKExH25K0g</utube>
+ <thumbnail>https://i.ytimg.com/vi/u6bUbo8a0F0/hqdefault.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ <item>
+ <title>Love Song Music</title>
+ <utube>UCFIcyCesapBLRz3R_AqxNhQ</utube>
+ <thumbnail>https://yt3.ggpht.com/-IUDnKfoXYhQ/AAAAAAAAAAI/AAAAAAAAAAA/qY-SnMQHjD8/s240-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ <item>
+ <title>Radio NCSM</title>
+ <utube>UCQfaCEO8t_Vh5R9gvDsbK5w</utube>
+ <thumbnail>https://yt3.ggpht.com/-A3VUNLGa4x0/AAAAAAAAAAI/AAAAAAAAAAA/9EQ3ayCb_Ag/s240-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ <item>
+ <title>Bons Tempos</title>
+ <utube>UCWBannwCUpynJ1VgTXRSnUQ</utube>
+ <thumbnail>https://yt3.ggpht.com/-e0guu4ZF5Ns/AAAAAAAAAAI/AAAAAAAAAAA/BFaiggydgdw/s240-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+
+ 
+ <item>
+ <title>Rede Trisch</title>
+ <utube>UC-P2knf58d5JL6uWlqTAolg</utube>
+ <thumbnail>https://yt3.ggpht.com/-4lbhaw5ysKs/AAAAAAAAAAI/AAAAAAAAAAA/mX2mB_pFmr0/s800-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ <item>
+ <title>Rede Trisch I </title>
+ <utube>UCzxWpogzg0mDIvZRPkS8ORw</utube>
+ <thumbnail>https://yt3.ggpht.com/-ZsJWXgmLQ0w/AAAAAAAAAAI/AAAAAAAAAAA/MD_sO2k3u14/s800-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+ </fanart></fanart>
+ </item>
+
+ 
