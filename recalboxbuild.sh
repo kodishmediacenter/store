@@ -5,11 +5,11 @@
 
 
 cd /recalbox/share/system/.kodi
-sudo rm -r addons/
-sudo rm -r media/
-sudo rm -r system/
-sudo rm -r temp
-sudo rm -r userdata/
+rm -r addons/
+rm -r media/
+rm -r system/
+rm -r temp
+rm -r userdata/
 cd .. 
 mkdir build
 cd build
