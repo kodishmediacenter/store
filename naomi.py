@@ -66,7 +66,7 @@ def getserver(link):
         linkf = ""+naomi+""+link[32:tam]+""
         return linkf
 
-     if link[0:32] == "http://fabiolmg.local/RCServer07":
+    if link[0:32] == "http://fabiolmg.local/RCServer07":
         naomi = "http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer07"
         tam = len(link)
         linkf = ""+naomi+""+link[32:tam]+""
