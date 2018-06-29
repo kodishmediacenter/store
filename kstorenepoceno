@@ -1,3 +1,9 @@
+name="Kratos Full Rebug [New Somente Player]"
+url="http://kodish.esy.es/kratos/plugin.video.kractosbr.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kratos/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
 name="Gustav Center [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18062018/plugin.video.playlistLoaderM.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18062018/icon-gustavcenter.png"
@@ -34,11 +40,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kratos/ico
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Kratos Full Rebug [New Kratos Team]"
-url="http://kodish.esy.es/kratos/plugin.video.kractosbr.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kratos/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="M3U Player [Dependencia Ladybug]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/plugin.video.m3u.zip"
