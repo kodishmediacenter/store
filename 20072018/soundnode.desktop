@@ -1,0 +1,7 @@
+[Desktop Entry]
+ Version=1.0
+ Name=soundnode
+ Exec=/opt/soundnode/Soundnode
+ Icon=/opt/soundnode/resources/app/app/soundnode.png
+ Type=Application
+ Categories=Application
