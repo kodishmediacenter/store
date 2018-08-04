@@ -40,3 +40,33 @@ img="https://image.ibb.co/bEuZQe/apple.png"
 fanart="http://sokodi.net/quasar/fanart.jpg"
 description="Não necessidade de fresh start"
 
+name="Linux Arm"
+url="https://github.com/scakemyer/plugin.video.quasar/releases/download/v0.9.78/plugin.video.quasar-0.9.78.linux_arm.zip" 
+img="https://image.ibb.co/n5gvyz/linux.png"
+fanart="http://sokodi.net/quasar/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Linux Arm V7"
+url="https://github.com/scakemyer/plugin.video.quasar/releases/download/v0.9.78/plugin.video.quasar-0.9.78.linux_armv7.zip" 
+img="https://image.ibb.co/n5gvyz/linux.png"
+fanart="http://sokodi.net/quasar/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Linux Arm 64"
+url="https://github.com/scakemyer/plugin.video.quasar/releases/download/v0.9.78/plugin.video.quasar-0.9.78.linux_arm64.zip" 
+img="https://image.ibb.co/n5gvyz/linux.png"
+fanart="http://sokodi.net/quasar/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Linux 32 bits"
+url="https://github.com/scakemyer/plugin.video.quasar/releases/download/v0.9.78/plugin.video.quasar-0.9.78.linux_x86.zip" 
+img="https://image.ibb.co/n5gvyz/linux.png"
+fanart="http://sokodi.net/quasar/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Linux 64 bits"
+url="https://github.com/scakemyer/plugin.video.quasar/releases/download/v0.9.78/plugin.video.quasar-0.9.78.linux_x64.zip" 
+img="https://image.ibb.co/n5gvyz/linux.png"
+fanart="http://sokodi.net/quasar/fanart.jpg"
+description="Não necessidade de fresh start"
+
