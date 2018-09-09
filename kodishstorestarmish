@@ -1,3 +1,15 @@
+name="Formiga TV [Dyego Formiga]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/08092018/plugin.video.formigatv.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/08092018/icon-formiga.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Brasil Full [MatheusZ]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/plugin.video.brasilfull.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/icon-brasilfull.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
 name="Desenhos 24 horas[new]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05092018/plugin.video.desenhos24hrs.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/05092018/icon-24horas.png"
@@ -22,11 +34,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Brasil Full [MatheusZ]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/plugin.video.brasilfull.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/icon-brasilfull.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="Koala [JoseCarlosViera]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/plugin.video.koala.zip"
@@ -144,19 +151,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary
 fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/aniversary-2017/icon-m3uplayer.png"
 description="Não necessidade de fresh start"
 
-
-
-name="Evolution Tv [New Tec TV]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/26042018/plugin.video.evolutionmedia.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/26042018/icon-evolutiontv.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Tv Channels [New Mr Will]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24042018b/plugin.video.tvchannelnd.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/24042018b/icon-tvchannelnd.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="Kodish Netflix [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/21042018/plugin.video.netflix2.zip"
