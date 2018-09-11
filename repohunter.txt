@@ -1,1 +1,11 @@
+name="Simple Caz [Repo]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/repository.simplycaz-1.0.2.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/icon.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg"
+description="Não necessidade de fresh start"
 
+name="Noobs And Nerds[Repo]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/noobsandnerds/repository.noobsandnerds.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/noobsandnerds/icon-noobsandnerds.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
