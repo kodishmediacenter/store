@@ -1,7 +1,7 @@
 
 name="Muramatsu Karaoke"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/plugin.video.MuramatsuKaraoke.zip"
-https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-MuramatsuKaraoke.png"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-MuramatsuKaraoke.png"
 fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg"
 description="Não necessidade de fresh start"
 
@@ -13,7 +13,7 @@ description="Não necessidade de fresh start"
 
 name="Autoesporte"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/plugin.video.autoesporte.zip"
-https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-autoesporte.png"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-autoesporte.png"
 fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg"
 description="Não necessidade de fresh start"
 
