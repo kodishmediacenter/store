@@ -10,12 +10,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12022019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Bluray Plays [BlurayPlays]"
-url="http://bluerayplay.com/repo/plugin.video.blurayplays.zip"
-img="https://uploaddeimagens.com.br/images/001/884/374/thumb/icon-blurayplays.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="Cancao Nova [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/31012019/plugin.video.cacaonova.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/31012019/icon-cancaonova.png"
@@ -35,8 +29,8 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Não necessidade de fresh start"
 
 name="Conexao TV [New ConexaoTV]"
-url="https://raw.githubusercontent.com/Marciocn/repo.conexaotv/master/ZipFiles/plugin.video.conexao/plugin.video.conexao-2.0.2.zip"
-img="https://raw.githubusercontent.com/Marciocn/repo.conexaotv/master/ZipFiles/plugin.video.conexao/icon.png"
+url="https://raw.githubusercontent.com/Marciocn/repo.conexaotv/master/ZipFiles/plugin.video.ConexaoTube/plugin.video.ConexaoTube-2.0.0.zip"
+img="https://raw.githubusercontent.com/Marciocn/repo.conexaotv/master/ZipFiles/plugin.video.ConexaoTube/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
