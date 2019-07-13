@@ -1,0 +1,7 @@
+##
+## Arch Linux repository mirrorlist
+## Generated on 2019-07-13
+##
+
+## Brazil
+Server = http://linorg.usp.br/archlinux/$repo/os/$arch
