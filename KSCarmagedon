@@ -4,12 +4,6 @@ img="https://raw.githubusercontent.com/djgatao/garfieldstore/master/28112019/ico
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="pikachu"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07122019/plugin.video.pikachu.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07122019/icon-pikachu.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Addon em analise pelo conselho guarda-chuva"
-
 name="Hidra Cangaco [New Update]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/plugin.video.cangaco.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-cangaco.png"
@@ -40,13 +34,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04122019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="ok"
 
-
-name="SHC2019 [SHCTEAM]"
-url="https://ia601500.us.archive.org/4/items/shc2019/shc2019.zip"
-img="https://sonichacking.org/res/img/title_small.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Compativel apenas kodi 18 e 19 emuladores com suporte jogos de megadrive"
-
 name="Trapalhoes TV"
 url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.TrapalhoesTV.zip"
 img="https://pbs.twimg.com/profile_images/2817074487/5d0ea5554e68e6b660d3a0f92ee6af66_400x400.jpeg"
@@ -59,11 +46,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/30112018/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Canal Ricos [New]"
-url="https://raw.githubusercontent.com/djgatao/garfieldstore/master/25112019/plugin.video.ricosaddon.zip"
-img="https://raw.githubusercontent.com/djgatao/garfieldstore/master/25112019/icon-ricos.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="G1 Podcast [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/13112019/plugin.audio.g1podcasts.zip"
