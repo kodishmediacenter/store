@@ -1,11 +1,3 @@
-
- <item>
- <title>Emocoes Apaixonantes</title>
- <utube>UCmSwz1kTbklNmOZdiAUN_Yg</utube>
- <thumbnail>https://yt3.ggpht.com/-GOAYwS4FbVg/AAAAAAAAAAI/AAAAAAAAAAA/M46fex72UXk/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
- </fanart></fanart>
- </item>
-
  <item>
  <title>RSA Music</title>
  <utube>UC4J156Jz2u_CjEyUSmQgh6g</utube>
@@ -34,12 +26,6 @@
  </fanart></fanart>
  </item>
 
- <item>
- <title>Radio NCSM</title>
- <utube>UCQfaCEO8t_Vh5R9gvDsbK5w</utube>
- <thumbnail>https://yt3.ggpht.com/-A3VUNLGa4x0/AAAAAAAAAAI/AAAAAAAAAAA/9EQ3ayCb_Ag/s240-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
- </fanart></fanart>
- </item>
 
  <item>
  <title>Bons Tempos</title>
