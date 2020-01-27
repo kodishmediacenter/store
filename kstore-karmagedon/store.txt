@@ -1,3 +1,9 @@
+name="Youtube [Beta]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/plugin.video.youtube-master%20(3).zip"
+img="https://raw.githubusercontent.com/Kolifanes/plugin.video.youtube/master/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Essa versão corrige erro atualização do Youtube"
+
 name="Hidra Cangaco [New Update]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/plugin.video.cangaco.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-cangaco.png"
