@@ -1,3 +1,9 @@
+name="Pikachu"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012020/plugin.video.pikachu/plugin.video.pikachu-1.11.0.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012020/plugin.video.pikachu/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon foi revisado por nosso conselheiro pois foi vitima da Keltec e por mim agora ta liberado para uso"
+
 name="Youtube [Beta]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/plugin.video.youtube-master%20(3).zip"
 img="https://raw.githubusercontent.com/Kolifanes/plugin.video.youtube/master/icon.png"
