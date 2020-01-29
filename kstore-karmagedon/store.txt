@@ -1,3 +1,9 @@
+name="Ucolecionador"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28012020/plugin.video.ucolecionador.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28012020/icon-ucolecionador.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon e uma homenagem maior ucolecionador acessorios do mundo"
+
 name="Point 242 [PointTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28012020/plugin.video.Point242.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28012020/icon-point242.png"
