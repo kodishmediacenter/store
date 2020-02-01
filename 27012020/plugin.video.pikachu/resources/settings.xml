@@ -9,8 +9,17 @@
     <setting type="sep" />
     <setting id="searchotherplugins" label="Pesquisar Outros plugins" type="bool" default="false"/>
   </category>
-  
+  <category label="Players">
+	    <setting label="[B][COLOR blue]Selecione abaixo seu gerenciador de torrents[/B][/COLOR]" type="lsep" /> 
+	    <setting type="sep" />
+        <setting label="32054" type="labelenum" id="plugin" default="Quasar" values="Elementun|Quasar|YATP"/>
+		<setting type="sep" />
+	    <setting label="32057" type="lsep"/>
+	    <setting label="32058" type="lsep"/>
+        <setting type="lsep" />
+   </category>
   <category label="Geral">
+	
     <setting id="save_location" type="folder"  label="Selecione um local de download." default=""/>
     <setting id="use_thumb" type="bool" label="Use Miniaturas como Fanart" default="false" />
     <setting id="logo-folderPath" type="folder"  label="Selecione o diretório para o logotipo." default=""/>
