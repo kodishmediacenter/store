@@ -1,9 +1,3 @@
-name="TV Fire [TVFogo]"
-url="https://fogohd.github.io/web/plugin.video.TvFire.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04122019/icon-tvfogo.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Tem desistalar o antigo Tv Fogo"
-
 name="Pikachu"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012020/plugin.video.pikachu/plugin.video.pikachu-1.12.0.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012020/plugin.video.pikachu/icon.png"
