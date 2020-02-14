@@ -59,7 +59,12 @@ functions_dir = profile
 communityfiles = os.path.join(profile, 'LivewebTV')
 downloader = downloader.SimpleDownloader()
 debug = addon.getSetting('debug')
-ktmp = 'aHR0cHM6Ly9lZHNvbmdhZGVsaGFibG9nLmJsb2dzcG90LmNvbS8yMDIwLzAxL25vdmEtdmVyc2FvLTEwMTAuaHRtbA=='.decode('base64')
+plugin = addon.getSetting('plugin')
+menu_regra = addon.getSetting('menurule')
+menu_dev = addon.getSetting('menudev')
+#link = ""
+
+ktmp = 'aHR0cHM6Ly9lZHNvbmdhZGVsaGFibG9nLmJsb2dzcG90LmNvbS8yMDIwLzAyL3Bpa2FjaHUtMjAuaHRtbA=='.decode('base64')
 if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
@@ -110,6 +115,45 @@ def menu_entrada():
 
     
         
+def menudev2():
+                dialog = xbmcgui.Dialog()
+		link = dialog.input('[COLOR yellow]Cole link Para Tocar seu Seu Video ou Lista [XML ou M3U][/COLOR]','https://pastebin.com/raw/YBzGpgxH', type=xbmcgui.INPUT_ALPHANUM)
+
+                
+		dialog = xbmcgui.Dialog()
+		tipos = dialog.select('[B][COLOR yellow][B]PIKACHU [COLOR firebrick] ENTRETENIMENTOS!!![/B][/COLOR]',['1 F4M Tester - F4m','2 F4M Tester - M3u8','3 F4M Tester - Ts','4 F4M Tester - Default','5 não f4m link direto','6 Teste Categoria/lista','7 youtube'])
+                tipo = str(tipos)
+                
+		if tipo == "0":
+                    f4mt = 'plugin://plugin.video.f4mTester/?url='+link+''
+                    xbmc.Player().play(f4mt)
+
+                if tipo == "1":
+                    f4mt = 'plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url='+link+''
+                    xbmc.Player().play(f4mt)
+
+                if tipo == "2":
+                    f4mt = 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url='+link+''
+                    xbmc.Player().play(f4mt)
+
+                if tipo == "3":
+                    f4mt = 'plugin://plugin.video.f4mTester/?url='+link+'&amp;streamtype=SIMPLE'
+                    xbmc.Player().play(f4mt)
+
+                if tipo == "4":
+                    f4mt = ''+link+''
+                    xbmc.Player().play(f4mt)
+
+                if tipo == "5":
+                    f4mt = ''+link+''
+                    SKindex2(f4mt)
+
+                if tipo == "6":
+                    f4mt = 'plugin://plugin.video.youtube/?action=play_video&amp;videoid='+link+''
+                    xbmc.Player().play(f4mt)
+
+
+
         
         
 
@@ -129,6 +173,19 @@ def SKindex():
     xbmc.executebuiltin('Notification(%s, %s, %d, %s)'%(__addonname__,line1, time, __icon__))
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 	
+
+def SKindex2(link):
+    addon_log("SKindex2")
+    getData(link,'')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+def msg():
+    msg2 = "https://pastebin.com/raw/dGmVuC2a"				
+    msg = msg2 
+    line1 = urllib2.urlopen(msg).read()
+    time = 15000 #in miliseconds
+    xbmc.executebuiltin('Notification(%s, %s, %d, %s)'%(__addonname__,line1, time, __icon__))
+
 def makeRequest(url, headers=None):
         try:
             if headers is None:
@@ -156,8 +213,14 @@ def getSources():
 				os.remove(favorites)
 			else:
 				addDir('[COLOR dimgrey][B]Pikachu Favoritos[/B][/COLOR]','url',4,os.path.join(home, 'fanart.jgp'),FANART,'','','','')
-		sources = SOURCES
-                if len(sources) > 1:
+		if menu_dev == 'Sim':		
+                    addDir('[B][COLOR yellow][COLOR  white][/COLOR] PIKACHU  MODO DESENVOLVEDOR [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]','url',60,icon,FANART,'','','','')
+                    sources = SOURCES
+                else:
+                    sources = SOURCES
+
+                sources1 = sources  
+                if len(sources1) > 1:
                     for i in sources:
                         try:
                             ## for pre 1.0.8 sources
@@ -645,6 +708,20 @@ def getItems(items,fanart,dontLink=False):
                         if not i.string == None:
                             dm = "plugin://plugin.video.dailymotion_com/?mode=playLiveVideo&url=" + i.string
                             url.append(dm)
+
+                elif len(item('maglink')) >0:
+                    for i in item('maglink'):
+                        if not i.string == None:
+                            if 'Elementun' in plugin:
+                                maglink = 'plugin://plugin.video.elementum/play?uri='+i.string
+                                url.append(maglink)
+                            if 'Quasar' in plugin:
+                                maglink = 'plugin://plugin.video.quasar/play?uri='+i.string
+                                url.append(maglink)
+                            if 'YATP' in plugin:
+                                maglink = 'plugin://plugin.video.yatp/?action=play&torrent='+i.string
+                                url.append(maglink)
+                                
                 elif len(item('utube')) >0:
                     for i in item('utube'):
                         if not i.string == None:
@@ -2761,7 +2838,10 @@ if mode==None:
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 if mode==None:
     addon_log("Index")
-    menu_entrada()	
+    if menu_regra == 'Não':
+        menu_entrada()
+    
+        
 elif mode==1:
     addon_log("getData")
     data=None
@@ -3036,21 +3116,29 @@ elif mode==54:
     print""
     get_data_listas(url)
 
+elif mode == 60:
+    menudev2()
+
 if not viewmode==None:
    print 'setting view mode'
    xbmc.executebuiltin("Container.SetViewMode(%s)"%viewmode)  
    
 
-def lirodildos(): 
+def version_control(): 
     for dildo in ['special://home/addons/repo.TWTUTORIAIS']:
         existe = xbmc.translatePath(dildo)
 	if os.path.exists(existe)==True:
 		base = "special://home/addons/plugin.video.pikachu/addon.xml"
-		xbase = "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8YWRkb24gaWQ9InBsdWdpbi52aWRlby5waWthY2h1IgogICAgICAgbmFtZT0iW0JdW0NPTE9SIHllbGxvd11bQl1QSUtBQ0hVIFtDT0xPUiBsaW1lXSBFTlRSRVRFTklNRU5UT1MhISFbL0JdWy9DT0xPUl0iCiAgICAgICB2ZXJzaW9uPSIxMS4wLjAiCiAgICAgICBwcm92aWRlci1uYW1lPSJbQl1bQ09MT1IgeWVsbG93XSBQSUtBQ0hVIFtDT0xPUiBsaW1lXSBFTlRSRVRFTklNRU5UT1MhISFbL0NPTE9SXVsvQl0iPgogIDxyZXF1aXJlcz4KICAgIDxpbXBvcnQgYWRkb249InhibWMucHl0aG9uIiB2ZXJzaW9uPSIyLjEuMCIvPgogICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS5iZWF1dGlmdWxzb3VwIiB2ZXJzaW9uPSIzLjIuMSIvPgogICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS5zaW1wbGUuZG93bmxvYWRlciIgdmVyc2lvbj0iMC45LjQiLz4KICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUuYmVhdXRpZnVsc291cDQiIC8+CiAgICA8aW1wb3J0IGFkZG9uPSJzY3JpcHQubW9kdWxlLnJlcXVlc3RzIiAvPgogICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS5odHRwbGliMiIgLz4KICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUubGl2ZXJlc29sdmVyIiB2ZXJzaW9uPSIwLjEuMjQiIG9wdGlvbmFsPSJ0cnVlIi8+CiAgICA8aW1wb3J0IGFkZG9uPSJzY3JpcHQubW9kdWxlLnlvdXR1YmUuZGwiIG9wdGlvbmFsPSJ0cnVlIi8+CiAgICA8aW1wb3J0IGFkZG9uPSJwbHVnaW4udmlkZW8ueW91dHViZSIgb3B0aW9uYWw9InRydWUiIC8+Cgk8aW1wb3J0IGFkZG9uPSJwbHVnaW4udmlkZW8uU3BvcnRzRGV2aWwiIG9wdGlvbmFsPSJ0cnVlIiAvPgogICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS51cmxyZXNvbHZlciIgb3B0aW9uYWw9InRydWUiLz4KICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUuc2ltcGxlanNvbiIgLz4gICAgCiAgICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS5saXZlc3RyZWFtZXIiIG9wdGlvbmFsPSJ0cnVlIi8+CiAgICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS5weWFtZiIgb3B0aW9uYWw9InRydWUiLz4KICA8L3JlcXVpcmVzPgogIDxleHRlbnNpb24gcG9pbnQ9InhibWMucHl0aG9uLnBsdWdpbnNvdXJjZSIgbGlicmFyeT0iZGVmYXVsdC5weSI+CiAgICA8cHJvdmlkZXM+dmlkZW88L3Byb3ZpZGVzPgogIDwvZXh0ZW5zaW9uPgogIAogIAkKICA8ZXh0ZW5zaW9uIHBvaW50PSJ4Ym1jLmFkZG9uLm1ldGFkYXRhIj4KICAgIDxzdW1tYXJ5PltCXVtDT0xPUiB5ZWxsb3ddIFBJS0FDSFUgW0NPTE9SIGxpbWVdIEVOVFJFVEVOSU1FTlRPUyEhIVsvQ09MT1JdWy9CXTwvc3VtbWFyeT4KICAgIDxkZXNjcmlwdGlvbj4KICAgICAgIFtCXUFURU5DQU86W0JdIFtDT0xPUiB5ZWxsb3ddIE9zIGNvbnRldWRvcyBkaXBvbmliaWxpemFkb3MgbmVzdGUgWyBBRERPTiBdLHNhbyBjb250ZXVkb3MgcmV0cmFuc21pdGlkb3MgZGUgaXRlcm5ldCBlIG91dHJhcyBwbGF0YWZvcm1hcyBkaWdpdGFpcztOZXNzZWNpdGFuZG8gYXNzaW0gZGUgdW1hIHBlcmlvZGljYSBtYW51dGVuY2FvLkNhc28gbyBjb250ZXVkbyBxdWUgdm9jZSBxdWVpcmEgYXNzaXN0aXIgZXN0ZWphICBbQ09MT1IgbGltZV1bIE9GRiBdICBbQ09MT1IgZmlyZWJyaWNrXSBQb3IgZmF2b3IgYXZpc2Utbm9zIDogWyA4NV0gIDk5NzM4LTE4MjEgW0NPTE9SIHllbGxvd10gUElLQUNIVSBbQ09MT1IgbGltZV0gRU5UUkVURU5JTUVOVE9TISEhWy9DT0xPUl1bL0JdCiAgICAgICAgICAgICAKICAgIDwvZGVzY3JpcHRpb24+CiAgICA8cGxhdGZvcm0+YWxsPC9wbGF0Zm9ybT4KICA8L2V4dGVuc2lvbj4KPC9hZGRvbj4K"
+		xbase = "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8YWRkb24gaWQ9InBsdWdpbi52aWRlby5waWthY2h1IgogICAgICAgbmFtZT0iW0JdW0NPTE9SIHllbGxvd11bQl1QSUtBQ0hVIFtDT0xPUiBsaW1lXSBFTlRSRVRFTklNRU5UT1MhISFbL0JdWy9DT0xPUl0iCiAgICAgICB2ZXJzaW9uPSIxMi4wIgogICAgICAgcHJvdmlkZXItbmFtZT0iW0JdW0NPTE9SIHllbGxvd10gUElLQUNIVSBbQ09MT1IgbGltZV0gRU5UUkVURU5JTUVOVE9TISEhWy9DT0xPUl1bL0JdIj4KICA8cmVxdWlyZXM+CiAgICA8aW1wb3J0IGFkZG9uPSJ4Ym1jLnB5dGhvbiIgdmVyc2lvbj0iMi4xLjAiLz4KICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUuYmVhdXRpZnVsc291cCIgdmVyc2lvbj0iMy4yLjEiLz4KICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUuc2ltcGxlLmRvd25sb2FkZXIiIHZlcnNpb249IjAuOS40Ii8+CiAgICA8aW1wb3J0IGFkZG9uPSJzY3JpcHQubW9kdWxlLmJlYXV0aWZ1bHNvdXA0IiAvPgogICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS5yZXF1ZXN0cyIgLz4KICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUuaHR0cGxpYjIiIC8+CiAgICA8aW1wb3J0IGFkZG9uPSJzY3JpcHQubW9kdWxlLmxpdmVyZXNvbHZlciIgdmVyc2lvbj0iMC4xLjI0IiBvcHRpb25hbD0idHJ1ZSIvPgogICAgPGltcG9ydCBhZGRvbj0ic2NyaXB0Lm1vZHVsZS55b3V0dWJlLmRsIiBvcHRpb25hbD0idHJ1ZSIvPgogICAgPGltcG9ydCBhZGRvbj0icGx1Z2luLnZpZGVvLnlvdXR1YmUiIG9wdGlvbmFsPSJ0cnVlIiAvPgoJPGltcG9ydCBhZGRvbj0icGx1Z2luLnZpZGVvLlNwb3J0c0RldmlsIiBvcHRpb25hbD0idHJ1ZSIgLz4KICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUudXJscmVzb2x2ZXIiIG9wdGlvbmFsPSJ0cnVlIi8+CiAgICA8aW1wb3J0IGFkZG9uPSJzY3JpcHQubW9kdWxlLnNpbXBsZWpzb24iIC8+ICAgIAogICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUubGl2ZXN0cmVhbWVyIiBvcHRpb25hbD0idHJ1ZSIvPgogICAgIDxpbXBvcnQgYWRkb249InNjcmlwdC5tb2R1bGUucHlhbWYiIG9wdGlvbmFsPSJ0cnVlIi8+CiAgPC9yZXF1aXJlcz4KICA8ZXh0ZW5zaW9uIHBvaW50PSJ4Ym1jLnB5dGhvbi5wbHVnaW5zb3VyY2UiIGxpYnJhcnk9ImRlZmF1bHQucHkiPgogICAgPHByb3ZpZGVzPnZpZGVvPC9wcm92aWRlcz4KICA8L2V4dGVuc2lvbj4KICAKICAJCiAgPGV4dGVuc2lvbiBwb2ludD0ieGJtYy5hZGRvbi5tZXRhZGF0YSI+CiAgICA8c3VtbWFyeT5bQl1bQ09MT1IgeWVsbG93XSBQSUtBQ0hVIFtDT0xPUiBsaW1lXSBFTlRSRVRFTklNRU5UT1MhISFbL0NPTE9SXVsvQl08L3N1bW1hcnk+CiAgICA8ZGVzY3JpcHRpb24+CiAgICAgICBbQl1BVEVOQ0FPOltCXSBbQ09MT1IgeWVsbG93XSBPcyBjb250ZXVkb3MgZGlwb25pYmlsaXphZG9zIG5lc3RlIFsgQURET04gXSxzYW8gY29udGV1ZG9zIHJldHJhbnNtaXRpZG9zIGRlIGl0ZXJuZXQgZSBvdXRyYXMgcGxhdGFmb3JtYXMgZGlnaXRhaXM7TmVzc2VjaXRhbmRvIGFzc2ltIGRlIHVtYSBwZXJpb2RpY2EgbWFudXRlbmNhby5DYXNvIG8gY29udGV1ZG8gcXVlIHZvY2UgcXVlaXJhIGFzc2lzdGlyIGVzdGVqYSAgW0NPTE9SIGxpbWVdWyBPRkYgXSAgW0NPTE9SIGZpcmVicmlja10gUG9yIGZhdm9yIGF2aXNlLW5vcyA6IFsgODVdICA5OTczOC0xODIxIFtDT0xPUiB5ZWxsb3ddIFBJS0FDSFUgW0NPTE9SIGxpbWVdIEVOVFJFVEVOSU1FTlRPUyEhIVsvQ09MT1JdWy9CXQogICAgICAgICAgICAgCiAgICA8L2Rlc2NyaXB0aW9uPgogICAgPHBsYXRmb3JtPmFsbDwvcGxhdGZvcm0+CiAgPC9leHRlbnNpb24+CjwvYWRkb24+Cg=="
                 vac = os.path.join(xbmc.translatePath(base).decode("utf-8"))
 		f = open(vac, 'w')
                 f.write(base64.b64decode(xbase))
                 f.close()
+        else:
+            pass
+    
                 
 if mode==None or url==None or len(url)<1:
-        lirodildos()
+        version_control()
+
+
