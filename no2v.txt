@@ -1,123 +1,130 @@
 <channels>
-    <channel>
-      <title>[COLOR yellow][B]PIKACHU  ENTRETERIMENTOS[/B][/COLOR]</title>
-    <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
-      <description>[COLOR green][B]ENTRETERIMENTO[/B][/COLOR]</description>
+<channel>
+<title>[COLOR yellow][B]PIKACHU  ENTRETERIMENTOS[/B][/COLOR]</title>
+<genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre><description>[COLOR green][B]ENTRETERIMENTO[/B][/COLOR]</description>
       <thumbnail>https://i.imgur.com/te6jJ7s.png</thumbnail>
 <fanart>https://i.imgur.com/pziFK6W.png</fanart>
       <date>06.JULHO.2019</date>
       <credits>A TODOS QUE ME AJUDARAM</credits>
-  
 <channels>
- 
+<channels> 
 <channel>
-     <name>[B][COLOR=green]<<  [/COLOR][COLOR=yellow]PIKACHU  ENTRETENIMENTOS:  [COLOR aquamarine]bit.ly/linkfull[/COLOR][COLOR=green]  >>[/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/zJmi0gk.png</thumbnail>
+<name>[B][COLOR=green]<<  [/COLOR][COLOR=yellow]PIKACHU  ENTRETENIMENTOS:  [COLOR aquamarine]bit.ly/linkfull[/COLOR][COLOR=green]  >[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/zJmi0gk.png</thumbnail>
 <fanart>https://i.imgur.com/uVlHr4W.png</fanart>
-<genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
-<link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
+<genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre><externallink>http://pastebin.com</externallink>
 </channel>
-  </channels>
+</channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channels> 
 <channel>
-      <name>[B][COLOR lime][/COLOR][COLOR yellow]                ATUALIZADO[COLOR white]:[COLOR lime] 03- JANEIRO -2020 [/COLOR][/B]</name>
+<name>[B][COLOR lime][/COLOR][COLOR yellow]                ATUALIZADO[COLOR white]:[COLOR lime] 03- JANEIRO -2020 [/COLOR][/B]</name>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
-  <thumbnail>https://i.imgur.com/zJmi0gk.png</thumbnail>
+<thumbnail>https://i.imgur.com/zJmi0gk.png</thumbnail>
 <fanart>https://i.imgur.com/uVlHr4W.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
+<externallink>http://pastebin.com</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] TV AO VIVO [COLOR firebrick] ->-> [COLOR yellow][ 3 MEGAS LISTAS QUENTINHAS.] [COLOR firebrick] ->-> [COLOR lime]PIKACHU [/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/SnJauAA.png</thumbnail>
+<name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] TV AO VIVO [COLOR firebrick] ->-> [COLOR yellow][ 3 MEGAS LISTAS QUENTINHAS.] [COLOR firebrick] ->-> [COLOR lime]PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SnJauAA.png</thumbnail>
 <fanart>https://i.imgur.com/bTNL2Yy.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/GFnvvsv3</externallink>
+<externallink>https://pastebin.com/raw/GFnvvsv3</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] FILMES [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/hOQgmnj.png</thumbnail>
+<name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] FILMES [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/hOQgmnj.png</thumbnail>
 <fanart>https://i.imgur.com/emzI2eE.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/FXLW9rB5</externallink>
+<externallink>https://pastebin.com/raw/FXLW9rB5</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] SÉRIES [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/te6jJ7s.png</thumbnail>
+<name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] SÉRIES [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/te6jJ7s.png</thumbnail>
 <fanart>https://i.imgur.com/pziFK6W.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/TKhssPTW</externallink>
+<externallink>https://pastebin.com/raw/TKhssPTW</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] DESENHOS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
-   <thumbnail>https://i.imgur.com/6Qb4iWt.png</thumbnail>
+<name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] DESENHOS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/6Qb4iWt.png</thumbnail>
 <fanart>https://i.imgur.com/ux4jAIq.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/mpn7x5Bi</externallink>
+<externallink>https://pastebin.com/raw/mpn7x5Bi</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR white]&#8226;  [/COLOR] ANIMES [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/MfrsgrV.png</thumbnail>
+<name>[B][COLOR yellow][COLOR white]&#8226;  [/COLOR] ANIMES [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/MfrsgrV.png</thumbnail>
 <fanart>https://i.imgur.com/bsxlxds.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/sM3UPmHf</externallink>
+<externallink>https://pastebin.com/raw/sM3UPmHf</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR white]&#8226;  [/COLOR] INFÂNTIL [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/p86565F.png</thumbnail>
+<name>[B][COLOR yellow][COLOR white]&#8226;  [/COLOR] INFÂNTIL [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/p86565F.png</thumbnail>
 <fanart>https://i.imgur.com/5DaxYJU.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/5hM0Gc7d</externallink>
+<externallink>https://pastebin.com/raw/5hM0Gc7d</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR white]&#8226;  [/COLOR] DOCUMENTÁRIOS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/Ek2u9W0.png</thumbnail>
+<name>[B][COLOR yellow][COLOR white]&#8226;  [/COLOR] DOCUMENTÁRIOS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Ek2u9W0.png</thumbnail>
 <fanart>https://i.imgur.com/QC1E3Xe.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/4qeTNmu8</externallink>
+<externallink>https://pastebin.com/raw/4qeTNmu8</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] NOVELAS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
- <thumbnail>https://i.imgur.com/GnANVIn.png</thumbnail>
+<name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] NOVELAS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/GnANVIn.png</thumbnail>
 <fanart>https://i.imgur.com/CigR4wB.png</fanart>
 <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
 <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/X2biSTq1</externallink>
+<externallink>https://pastebin.com/raw/X2biSTq1</externallink>
 </channel>
-  </channels>
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels> 
 <channel>
-      <name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] SHOWS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
+<name>[B][COLOR yellow][COLOR  white]&#8226;  [/COLOR] SHOWS [COLOR firebrick] ->-> [COLOR lime] PIKACHU [/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/pwHAMpA.png</thumbnail>
 <fanart>https://i.imgur.com/Xw2RNfb.png</fanart>
-1 <genre>[B][COLOR firebrick](Mr.Pikachu).[COLOR white][COLOR yellow][ http://bit.ly/doarpikachu ]!!!   [COLOR firebrick]Shows, ao Vivo[/COLOR][/B]</genre>
-1 <info>[B][COLOR yellow] SINOPSE:
+<genre>[B][COLOR firebrick](Mr.Pikachu).[COLOR white][COLOR yellow][ http://bit.ly/doarpikachu ]!!!   [COLOR firebrick]Shows, ao Vivo[/COLOR][/B]</genre>
+<info>[B][COLOR yellow] SINOPSE:
 [COLOR white]Pikachu Entretenimentos: levando o melhor dos shows ate voce !!! (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info> 
-   <externallink>https://pastebin.com/raw/RawxbPnX</externallink>
+<externallink>https://pastebin.com/raw/RawxbPnX</externallink>
 </channel>
-  </channels>
+</channels>
