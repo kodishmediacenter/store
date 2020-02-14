@@ -1,5 +1,5 @@
 <channels>
-    <channels_info>
+    <channel>
       <title>[COLOR yellow][B]PIKACHU  ENTRETERIMENTOS[/B][/COLOR]</title>
     <genre>[B][COLOR firebrick]Pikachu Entretenimentos: [COLOR white]Pikachu trazendo o diferencial para seu kodi![/COLOR][/B]</genre>
       <description>[COLOR green][B]ENTRETERIMENTO[/B][/COLOR]</description>
@@ -7,7 +7,7 @@
 <fanart>https://i.imgur.com/pziFK6W.png</fanart>
       <date>06.JULHO.2019</date>
       <credits>A TODOS QUE ME AJUDARAM</credits>
-    </channels_info>
+  
 <channels>
  
 <channel>
