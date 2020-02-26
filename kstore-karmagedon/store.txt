@@ -1,3 +1,15 @@
+name="Circulo [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/plugin.video.circulo.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/icon-circulo.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse canal é top"
+
+name="Tv Fogo [New Update]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/plugin.video.firehd.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/icon-tvfogo.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Nova Versão do TV Fogo"
+
 name="Pikachu [New Update]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012020/plugin.video.pikachu/plugin.video.pikachu-2.0.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012020/plugin.video.pikachu/icon.png"
@@ -206,12 +218,6 @@ description="Não necessidade de fresh start"
 name="Rock Clasico Colection[New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/plugin.video.classicrockcolection.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-classicrockcolection.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Brazuca Plays [NEW]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/31032019/BrazucaPlay.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/31032019/icon-brazuca.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
