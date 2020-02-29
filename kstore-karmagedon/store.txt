@@ -1,3 +1,9 @@
+name="Youtube-Patch [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/icon-youtubepatch.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon corrige erro project atualizando api caso nao funcione limpe o cache e caso percista reinstale novamente o kodi"
+
 name="Circulo [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/plugin.video.circulo.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/icon-circulo.png"
