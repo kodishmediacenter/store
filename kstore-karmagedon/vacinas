@@ -1,0 +1,11 @@
+name="Youtube-Patch [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/icon-youtubepatch.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon corrige erro project atualizando api caso nao funcione limpe o cache e caso percista reinstale novamente o kodi"
+
+name="AntBlock [KodishTeam]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/plugin.executable.antblocker.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/icon-antblocker.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Script permite remover os bloqueios de outros addons - Para Windows [Executar com ADM] e Linux e Android [Root]"
