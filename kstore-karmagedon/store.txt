@@ -1,12 +1,31 @@
+
 name="Youtube-Patch [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/icon-youtubepatch.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Esse addon corrige erro project atualizando api caso nao funcione limpe o cache e caso percista reinstale novamente o kodi"
 
-name="Circulo [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/plugin.video.circulo.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/icon-circulo.png"
+name="Tokuflix [KodishTeam/Tokuflix]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.tokuflix.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-tokuflix.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Para Fans Tokusatsu melhor conteudo Tokusatsu da internet"
+
+name="IPTV TW Tutorias [TonyWarley]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.iptvTWTUTORIAIS.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-iptvTWTUTORIAIS.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
+name="Reporter CBN [DjGarfield]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.audio.reportercbn.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-reportercbn.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="Circulo [DjGarfield]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.circulo.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-circulo.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Esse canal é top"
 
@@ -61,12 +80,6 @@ description="Não necessidade de fresh start"
 name="AntBlock [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/plugin.executable.antblocker.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/icon-antblocker.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Reporter CBN"
-url="https://raw.githubusercontent.com/djgatao/garfieldstore/master/28112019/plugin.audio.reportercbn.zip"
-img="https://raw.githubusercontent.com/djgatao/garfieldstore/master/28112019/icon-reportercbn.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
@@ -378,13 +391,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/30102018/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Skull Rock [Foliver]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/30102018/plugin.video.SkullRock.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/30102018/iconSkullRock.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-
 name="Turma da Monica[New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/21102018/plugin.video.turmadamonica.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/21102018/icon-turmadamonica.png"
@@ -430,12 +436,6 @@ description="Não necessidade de fresh start"
 name="Ign Brasil[New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05092018/plugin.video.ign.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/05092018/icon-ign.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Foliver Wizard [Foliver]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/plugin.program.foliver.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29082018/icon-foliver.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
