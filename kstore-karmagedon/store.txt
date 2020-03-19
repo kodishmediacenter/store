@@ -1,3 +1,8 @@
+name="Lunnar Script [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/script.luar.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/icon.gif"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon corrige erro do kodi ele bom para corrigir buffer vale o uso"
 
 name="Youtube-Patch [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
