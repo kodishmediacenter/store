@@ -1,3 +1,9 @@
+name="CineTorrent [New Glaidson]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29092019/plugin.video.CineTorrentX.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29092019/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
 name="Lunnar Script [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/script.luar.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/icon.gif"
@@ -123,12 +129,6 @@ description="Não necessidade de fresh start"
 name="Mega Repo [TonyWarley]"
 url="http://megarepo.xyz/megarepo/repo.TWTUTORIAIS-5.0.zip"
 img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="CineTorrent [New Glaidson]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29092019/plugin.video.CineTorrent.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29092019/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
