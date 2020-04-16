@@ -1,3 +1,28 @@
+name="Bandmania [VariosAutores]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/plugin.video.bandmania.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/icon-bandmania.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Essa addon French Dj e Demargon e Amobox"
+
+name="Insession [Hiraya]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/plugin.video.insession.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/icon-insession.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
+name="On Air [VariosAutores]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/plugin.audio.onair.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/icon-onair.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse Addon Alex303 e Hiraya Software"
+
+name="Elementun Drive [KodishTeam]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/plugin.video.elementum.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/icon-elementun.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Patch de Correção para addons point 242 e maxtorrent rodar stremio do windows"
+
+
 name="Gaviao Play [Wilson]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/plugin.video.GAVIAOPLAY.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png"
