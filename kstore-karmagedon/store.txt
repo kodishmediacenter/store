@@ -1,3 +1,9 @@
+name="Megatv [MegaTV]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/19042020/plugin.video.megatv.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/19042020/icon-megatv.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita ter Service Pack"
+
 name="NewSupremo [will]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/plugin.video.newsupremo.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/icon-newsupremo.png"
