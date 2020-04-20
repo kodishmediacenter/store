@@ -1,3 +1,9 @@
+name="IPTV TW Tutorias [TonyWarley]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.iptvTWTUTORIAIS.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-iptvTWTUTORIAIS.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
 name="Hidra Cangaco [New Update]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/plugin.video.cangaco.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-cangaco.png"
@@ -70,12 +76,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-tokuflix.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Para Fans Tokusatsu melhor conteudo Tokusatsu da internet"
-
-name="IPTV TW Tutorias [TonyWarley]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.iptvTWTUTORIAIS.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-iptvTWTUTORIAIS.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
 
 name="Reporter CBN [DjGarfield]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.audio.reportercbn.zip"
