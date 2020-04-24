@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.BXL"
+       name="BXL"
+       version="1.0"
+       provider-name="CARIVALDO ARAUJO">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+	<import addon="plugin.video.SportsDevil" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  
+  	
+ <extension point="xbmc.addon.metadata">
+	<news>
+	[COLOR red][B]ATUALIZAÇÕES[/B][/COLOR]
+	[COLOR firebrick][B]l[/B][/COLOR] V1.0 - Re-lançamento oficial
+	</news>
+		
+	<description lang="en">[COLOR red]l[/COLOR] GDRIVE [COLOR red]l[/COLOR] F4M TESTER [COLOR red]l[/COLOR] F4M PROXY [COLOR red]l[/COLOR] ELEMENTUM [COLOR red]l[/COLOR]
+
+	[COLOR red]l[/COLOR] Todos os complementos necessários para o bom funcionamento do Addon BXL você encontra aqui![COLOR red]l[/COLOR]
+
+	[COLOR red]l[/COLOR] ADDON BXL - Saiu Dublado, Saiu Aqui![COLOR red]l[/COLOR]
+	</description>
+		
+<disclaimer lang="en">Todo o conteúdo aqui encontrado pode ser facilmente encontrado pela internet, nosso trabalho é apenas armazenar todo este conteúdo em um banco de dados próprio e disponibiliza-los de forma mais "confortável" aos interessados nesse tipo de conteúdo. Entretando, qualquer plágio das páginas aqui encontradas estarão sujeitas a represárias.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
