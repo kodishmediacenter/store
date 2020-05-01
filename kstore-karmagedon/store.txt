@@ -1,3 +1,9 @@
+name="BrasilFull [BrasilFull]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/30042020/brasilfull.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/30042020/icon-brasilfull.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Cine Antiqua - filmes clássicos"
+
 name="Cine Antiqua[Garfield]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24032020/plugin.video.CineAntiqua.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/24032020/icon-CineAntiqua.png"
