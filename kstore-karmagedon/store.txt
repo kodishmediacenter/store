@@ -1,3 +1,27 @@
+name="Orbital [Iberika]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/plugin.video.OrbitalMusicRadio.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-OrbitalMusicRadio.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="nnnn"
+
+name="Dumont Fm"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/plugin.video.dummontfm.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-dummont.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="nnnn"
+
+name="Now[Catoal]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/plugin.video.now_music.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-now_music.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="nnnn"
+
+name="ROCK4U [SAMI]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/plugin.video.ROCK4U.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-ROCK4U.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="nnnn"
+
 name="BrasilFull [BrasilFull]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/30042020/brasilfull.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/30042020/icon-brasilfull.png"
