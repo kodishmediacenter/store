@@ -4,12 +4,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="nnnn"
 
-name="DestinyDeathstar [DestinyDeathstar]"
-url="http://archive.org/download/destiny_20200512/destiny.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/icon-destiny.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="nnnn"
-
 name="Orbital [Iberika]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/plugin.video.OrbitalMusicRadio.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-OrbitalMusicRadio.png"
