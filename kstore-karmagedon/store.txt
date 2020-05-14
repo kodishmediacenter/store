@@ -1,3 +1,9 @@
+name="IPTV TW Tutorias [TonyWarley]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.iptvTWTUTORIAIS.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-iptvTWTUTORIAIS.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
 name="FDJ [FDJ]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/addons.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/icon.png"
@@ -39,12 +45,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24032020/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/24032020/icon-CineAntiqua.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Cine Antiqua - filmes clássicos"
-
-name="IPTV TW Tutorias [TonyWarley]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.iptvTWTUTORIAIS.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-iptvTWTUTORIAIS.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
 
 name="Hidra Cangaco [New Update]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/plugin.video.cangaco.zip"
