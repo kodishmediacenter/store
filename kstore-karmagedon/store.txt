@@ -1,3 +1,9 @@
+name="Youtube-Patch [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/icon-youtubepatch.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon corrige erro project atualizando api caso nao funcione limpe o cache e caso percista reinstale novamente o kodi"
+
 name="Mega Repo [TonyWarley]"
 url="http://31.220.52.123/online/repo.TWTUTORIAIS-5.0.zip"
 img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
@@ -112,12 +118,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/s
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/icon.gif"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Esse addon corrige erro do kodi ele bom para corrigir buffer vale o uso"
-
-name="Youtube-Patch [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/icon-youtubepatch.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Esse addon corrige erro project atualizando api caso nao funcione limpe o cache e caso percista reinstale novamente o kodi"
 
 name="Tokuflix [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.tokuflix.zip"
