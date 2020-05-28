@@ -14,7 +14,7 @@ name="Mega Repo [TonyWarley]"
 url="http://31.220.52.123/online/repo.TWTUTORIAIS-5.0.zip"
 img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
+description="Tem Vikings não instala pois pode causionar problemas"
 
 name="FDJ [FDJ]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/addons.zip"
