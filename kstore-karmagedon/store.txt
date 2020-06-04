@@ -4,6 +4,13 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
+name="Play Cine [OP]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04062020/plugin.video.PlayCine.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04062020/icon-playcine.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
+
 name="Pikachu [Pikachu]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/plugin.video.pikachu.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
