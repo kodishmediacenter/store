@@ -1,3 +1,9 @@
+name="Conexao TV [NU CTV]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07062020/plugin.video.conexao.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07062020/icon-conexao.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
 name="Hidra Tuxedo [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/plugin.video.cangaco.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/icon-hdtuxedo.png"
