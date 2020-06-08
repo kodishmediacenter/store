@@ -10,13 +10,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Play Cine [OP]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04062020/plugin.video.PlayCine.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04062020/icon-playcine.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-
 name="Pikachu [Pikachu]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/plugin.video.pikachu.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
@@ -193,12 +186,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="AntBlock [KodishTeam]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/plugin.executable.antblocker.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/icon-antblocker.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="MM Maroto [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07122019/plugin.video.MMmaroto.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07102019/icon.MMmaroto.png"
@@ -236,21 +223,9 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/13112019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="KboingFM [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092019/plugin.video.kboing.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092019/icon-kboing.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="The Crew [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/31082019/thecrew.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/31082019/icon.gif"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Miraculus Ladybug [New Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/31082019/plugin.video.miraculusof.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/icon-miraculus.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
@@ -272,18 +247,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16082019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Vida [New Isac]"
-url="http://addonvida.repotwtutoriais.hostingerapp.com/2-VIDA-4.8.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/vida/05022018/icon-vida.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Dejavu [Dejavu]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/dejavu.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/icon-dejavu.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="Caminho Fraterno [Kodish]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/plugin.video.CaminhoFraterno.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/icon-CaminhoFraterno.png"
@@ -296,17 +259,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="The Best Iptv"
-url="http://kodishmc.xyz/best%20Iptv/plugin.video.bestiptv/plugin.video.bestiptv-2.0.0.zip"
-img="http://kodishmc.xyz/best%20Iptv/plugin.video.bestiptv/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Quasar Drive [KodishTeam]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01062019/plugin.video.quasar.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01062019/icon-quasaremu.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="Ruivo[New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/plugin.video.ruivo.zip"
@@ -317,12 +269,6 @@ description="Não necessidade de fresh start"
 name="RSA Music[New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/plugin.video.rsamusictv.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-rsamusictv.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Ouvir Musica[New Cleiton]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/plugin.video.ouvirmusica.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-ouvirmusica.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
@@ -573,18 +519,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/13062018/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Esse Apk somente para menbros grupo vip"
 
-name="Guaximin IPTV [NEW]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/plugin.video.playlistLoaderX.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/guaximin/icon-guaximin.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Metahandler [Dependencia Kratos]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/script.module.metahandler.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kratos/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="Kodish Netflix [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/21042018/plugin.video.netflix2.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/21042018/icon-netflix2.png"
@@ -619,12 +553,6 @@ name="Vagalume FM [New KractosKodiBr]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/Kractos/plugin.video.vagalumefm.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/Kractos/icon-vagalume.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Torrent Br [New Update]"
-url="https://raw.githubusercontent.com/torrentbr/kodi/master/plugin.video.TorrentBR.zip"
-img="http://i.imgur.com/wkmHosy.png?1"
-fanart="http://i.imgur.com/wkmHosy.png?1"
 description="Não necessidade de fresh start"
 
 name="Canal Kond Zilla [new Kodish Team]"
