@@ -1,3 +1,15 @@
+name="Radio Cat Osasco"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/plugin.video.radiocatolicaosasco.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/icon-radiocatolicadeosasco.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
+name="Pikachu [Pikachu]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/plugin.video.pikachu.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
 name="IPTV TW Tutorias [TonyWarley]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.iptvTWTUTORIAIS.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-iptvTWTUTORIAIS.png"
@@ -16,11 +28,7 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18012019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="Pikachu [Pikachu]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/plugin.video.pikachu.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
 
 name="Youtube-Patch [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
