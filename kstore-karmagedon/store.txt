@@ -1,3 +1,21 @@
+name="Corujinha SP [KodishTeam]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/plugin.video.CorujinhaSP.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/icon-corujinhasp.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
+name="KamiKaze [Nightwolf]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/plugin.video.KamiKaze.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/icon-kamiKase.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
+name="Radio Tops [KodishTeam]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/plugin.video.radiostops.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/icon-tops.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
 name="Radio Cat Osasco"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/plugin.video.radiocatolicaosasco.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/icon-radiocatolicadeosasco.png"
