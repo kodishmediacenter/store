@@ -1,4 +1,4 @@
-name="Pikachu Novidades [KodishTeam/Pikachu]"
+name="Pikachu Novidades [Pikachu]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/25062020/plugin.executable.newspikachu.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/25062020/icon.PNG"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
