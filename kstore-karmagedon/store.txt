@@ -1,3 +1,9 @@
+name="Pikachu Novidades [KodishTeam/Pikachu]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/25062020/plugin.executable.newspikachu.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/25062020/icon.PNG"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
 name="Radio Tops [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/radiostop/master/Plugins/plugin.video.radiostops/plugin.video.radiostops-2.1.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/icon-tops.png"
