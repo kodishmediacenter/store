@@ -1,3 +1,9 @@
+name="Pikachu [Pikachu]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/plugin.video.pikachu.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
 name="BXL [Carivaldo]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/plugin.video.BXL.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/icon-BXL.png"
@@ -34,11 +40,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
 
-name="Pikachu [Pikachu]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/plugin.video.pikachu.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
 
 name="Conexao TV [NU CTV]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07062020/plugin.video.conexao.zip"
