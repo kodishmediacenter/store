@@ -1,3 +1,33 @@
+name="Rebelium [Rebelium]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/plugin.video.Rebellium.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/Icon-rebelium.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="mmmm"
+
+name="BrunoFlix [BrunoFlix]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/plugin.video.brunoflix.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/icon-brunoflix.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="mmmm"
+
+name="Point242 [Point242]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/plugin.video.Point242.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/icon-point.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="mmmm"
+
+name="GdriveWeb"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/plugin.video.gdrive.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/icon-gdrive.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Alternativa para esse tempo dificil"
+
+name="Mega Repo [TonyWarley]"
+url="http://qdodasformiguinhas.site/megarepo/repo.TWTUTORIAIS-5.0.zip"
+img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Tem Vikings não instala pois pode causionar problemas"
+
 name="Pikachu [Pikachu]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/plugin.video.pikachu.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
@@ -61,11 +91,7 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Esse addon corrige erro project atualizando api caso nao funcione limpe o cache e caso percista reinstale novamente o kodi"
 
-name="Mega Repo [TonyWarley]"
-url="http://31.220.52.123/online/repo.TWTUTORIAIS-5.0.zip"
-img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Tem Vikings não instala pois pode causionar problemas"
+
 
 name="FDJ [FDJ]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/addons.zip"
