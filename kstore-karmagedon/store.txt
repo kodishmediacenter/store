@@ -1,9 +1,3 @@
-name="Rebelium [Rebelium]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/plugin.video.Rebellium.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/Icon-rebelium.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="mmmm"
-
 name="BrunoFlix [BrunoFlix]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/plugin.video.brunoflix.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/icon-brunoflix.png"
