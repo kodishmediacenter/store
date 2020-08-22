@@ -1,3 +1,15 @@
+name="EstudioKaza [EstudioKasa]"
+url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.audio.estudioKaza/plugin.audio.estudioKaza-1.0.zip"
+img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.audio.estudioKaza/resources/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Nova Versão"
+
+name="Tv Fogo [New Update]"
+url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/plugin.video.firehd-8.4.zip"
+img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Nova Versão do TV Fogo"
+
 name="BrunoFlix [BrunoFlix]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/plugin.video.brunoflix.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/icon-brunoflix.png"
@@ -22,11 +34,6 @@ img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Tem Vikings não instala pois pode causionar problemas"
 
-name="Pikachu [Pikachu]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/plugin.video.pikachu.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27052020/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
 
 name="BXL [Carivaldo]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/plugin.video.BXL.zip"
@@ -34,11 +41,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita ter Service Pack Instalado"
 
-name="Pikachu Novidades [Pikachu]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/25062020/plugin.executable.newspikachu.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/25062020/icon.PNG"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
 
 name="Radio Tops [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/radiostop/master/Plugins/plugin.video.radiostops/plugin.video.radiostops-2.1.zip"
@@ -196,12 +198,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-circulo.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Esse canal é top"
-
-name="Tv Fogo [New Update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/plugin.video.firehd.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/26022020/icon-tvfogo.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Nova Versão do TV Fogo"
 
 
 name="Ucolecionador"
