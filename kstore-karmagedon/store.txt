@@ -1,3 +1,9 @@
+name="TeamMilhanos [milhanos]"
+url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.team.milhanos/plugin.video.team.milhanos-0.0.1.zip"
+img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.team.milhanos/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Nova Versão"
+
 name="Reviva [VikoK]"
 url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.reviva/plugin.video.reviva-1.0.zip"
 img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.reviva/icon.png"
