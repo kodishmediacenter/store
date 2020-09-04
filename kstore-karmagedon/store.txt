@@ -1,3 +1,9 @@
+name="BXL [Carivaldo]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/plugin.video.BXL.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/icon-BXL.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita ter Service Pack Instalado"
+
 name="TeamMilhanos [milhanos]"
 url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.team.milhanos/plugin.video.team.milhanos-0.0.1.zip"
 img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.team.milhanos/icon.png"
@@ -45,14 +51,6 @@ url="http://qdodasformiguinhas.site/megarepo/repo.TWTUTORIAIS-5.0.zip"
 img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Tem Vikings não instala pois pode causionar problemas"
-
-
-name="BXL [Carivaldo]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/plugin.video.BXL.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/icon-BXL.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Necessita ter Service Pack Instalado"
-
 
 name="Radio Tops [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/radiostop/master/Plugins/plugin.video.radiostops/plugin.video.radiostops-2.1.zip"
