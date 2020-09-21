@@ -1,3 +1,9 @@
+name="Mega Repo [TonyWarley]"
+url="http://qdodasformiguinhas.site/online/repo.TWTUTORIAIS-5.1.zip"
+img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Tem Vikings não instala pois pode causionar problemas"
+
 name="FlixPremiun [TonyWarley]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.FLIXPemium.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-FLIXPemium.png"
@@ -53,7 +59,7 @@ fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.j
 description="Nova Versão"
 
 name="Tv Fogo [New Update]"
-url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/plugin.video.firehd-8.4.zip"
+url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/plugin.video.firehd-8.4.1.zip"
 img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Nova Versão do TV Fogo"
@@ -76,11 +82,7 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Alternativa para esse tempo dificil"
 
-name="Mega Repo [TonyWarley]"
-url="http://qdodasformiguinhas.site/megarepo/repo.TWTUTORIAIS-5.0.zip"
-img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Tem Vikings não instala pois pode causionar problemas"
+
 
 name="Radio Tops [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/radiostop/master/Plugins/plugin.video.radiostops/plugin.video.radiostops-2.1.zip"
