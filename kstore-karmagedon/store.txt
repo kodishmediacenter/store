@@ -1,3 +1,9 @@
+name="BXL [Carivaldo]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.BXL.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-bxl.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita ter Service Pack Instalado"
+
 name="Pikachu [Pikachu]"
 url="https://archive.org/download/plugin.video.pikachu_202009/plugin.video.pikachu.zip"
 img="https://archive.org/download/plugin.video.pikachu_202009/icon-pikachu.png"
@@ -40,11 +46,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07102019/i
 fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/07102019/fanart.MMmaroto.jpg"
 description="Não necessidade de fresh start"
 
-name="BXL [Carivaldo]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.BXL.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/icon-BXL.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Necessita ter Service Pack Instalado"
 
 name="TeamMilhanos [milhanos]"
 url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.team.milhanos/plugin.video.team.milhanos-0.0.1.zip"
