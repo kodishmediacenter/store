@@ -46,6 +46,12 @@ img="https://pt.seaicons.com/wp-content/uploads/2015/10/OS-Windows-icon.png"
 fanart="http://sokodi.net/quasar/fanart.jpg"
 description="Não necessidade de fresh start"
 
+name="Android Universal"
+url="http://archive.org/download/plugin.video.elementum-0.1.58/plugin.video.elementum-0.1.58.zip" 
+img="https://image.ibb.co/cCvYke/download.png"
+fanart="http://sokodi.net/quasar/fanart.jpg"
+description="Não necessidade de fresh start"
+
 name="Android 32bits"
 url="https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.58/plugin.video.elementum-0.1.58.android_x86.zip" 
 img="https://image.ibb.co/cCvYke/download.png"
