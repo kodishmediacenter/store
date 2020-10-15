@@ -1,3 +1,21 @@
+name="Miracle Music [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/plugin.video.MiracleMusic.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-MiracleMusic.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+
+name="Clube da Meditacao [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/plugin.video.clubedameditacao.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-clubemeditacao.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+
+name="Top Music [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/plugin.video.topmusic.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-top.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+
 name="Lunnar Script [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/script.luar.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/icon.gif"
