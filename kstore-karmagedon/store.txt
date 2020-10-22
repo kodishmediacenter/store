@@ -1,3 +1,9 @@
+name="Torrent Br [TonyWarley]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/22102020/plugin.video.TorrentBR.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/22102020/icon-TorrentBR.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon necessita do Elementum Instalado"
+
 name="Miracle Music [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/plugin.video.MiracleMusic.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-MiracleMusic.png"
