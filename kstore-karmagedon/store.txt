@@ -1,13 +1,13 @@
 
 name="FREEDDONS [AlanTuring]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/plugin.video.pikachu.zip"
-img="https://archive.org/download/plugin.video.pikachu_202009/icon-FREEDDONS.png"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/icon-FREEDDONS.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="kkkkk"
 
 name="Pikachu [Pikachu]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/plugin.video.FREEDDONS.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/"
+img="https://ia801701.us.archive.org/14/items/plugin.video.pikachu_202009/icon-pikachu.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="kkkkk"
 
