@@ -1,3 +1,16 @@
+
+name="FREEDDONS [AlanTuring]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/plugin.video.pikachu.zip"
+img="https://archive.org/download/plugin.video.pikachu_202009/icon-FREEDDONS.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="kkkkk"
+
+name="Pikachu [Pikachu]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/plugin.video.FREEDDONS.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="kkkkk"
+
 name="Torrent Br [TonyWarley]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/22102020/plugin.video.TorrentBR.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/22102020/icon-TorrentBR.png"
@@ -33,12 +46,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-bxl.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita ter Service Pack Instalado"
-
-name="Pikachu [Pikachu]"
-url="https://archive.org/download/plugin.video.pikachu_202009/plugin.video.pikachu.zip"
-img="https://archive.org/download/plugin.video.pikachu_202009/icon-pikachu.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="kkkkk"
 
 name="Mega Repo [TonyWarley]"
 url="http://qdodasformiguinhas.site/online/repo.TWTUTORIAIS-5.1.zip"
