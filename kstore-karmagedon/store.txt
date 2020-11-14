@@ -1,3 +1,36 @@
+name="AnimalTv"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.animaltv.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-animaltv.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+name="Tecmundo"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.tecmundo.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-tecmundo.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+name="NTD Portugues"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.ntdportugues.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-ntdportugues.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+name="Cine Series[PauloJr]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.cine-series-3.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-cine-series-3.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+name="Cine Filmes[PauloJr]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.cine-vianna.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-cine-vianna.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+
+
+
 
 name="FREEDDONS [AlanTuring]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/plugin.video.FREEDDONS.zip"
