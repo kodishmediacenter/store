@@ -2,7 +2,7 @@ name="TV Fogo"
 url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/plugin.video.firehd-8.4.2.zip"
 img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+description="Atendendo Pedidos Conselho Guarda-Chuva"
 
 name="AnimalTv"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.animaltv.zip"
