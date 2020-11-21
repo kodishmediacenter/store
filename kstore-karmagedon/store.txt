@@ -1,3 +1,21 @@
+name="DocUfo"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/plugin.video.DocUfo.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-DocUfo.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+name="Vix Tv"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/plugin.video.vixlaucher.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-vixlaucher.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+name="Gaming Mix Nation"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/plugin.video.gamingmixnation.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-gamingmixnation.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
 name="TV Fogo"
 url="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/plugin.video.firehd-8.4.2.zip"
 img="https://raw.githubusercontent.com/vikingsbuild/vikings.repo/master/plugin.video.firehd/icon.png"
