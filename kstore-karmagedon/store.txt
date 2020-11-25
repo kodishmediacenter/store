@@ -1,3 +1,9 @@
+name="Disney Plus[Imagem]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24112020/disney.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/24112020/icon-disneyplus.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Tem instalar 2x e depois reniciar"
+
 name="DocUfo"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/plugin.video.DocUfo.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-DocUfo.png"
