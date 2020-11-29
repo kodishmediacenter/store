@@ -1,3 +1,9 @@
+name="Scooby-Doo"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28112020/plugin.video.scoobydoo.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28112020/icon-scoobydoo.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
 name="Disney Plus[Imagem]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24112020/disney.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/24112020/icon-disneyplus.png"
