@@ -1,3 +1,9 @@
+name="Top Music [New]"
+url="https://raw.githubusercontent.com/kodishmediacenter/radiostop/master/Plugins/plugin.video.radiostops/plugin.video.radiostops-3.0.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-top.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+
 name="Scooby-Doo"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28112020/plugin.video.scoobydoo.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28112020/icon-scoobydoo.png"
@@ -98,11 +104,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
 
-name="Top Music [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/plugin.video.topmusic.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-top.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
 
 name="Lunnar Script [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/script.luar.zip"
