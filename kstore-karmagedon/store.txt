@@ -196,14 +196,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27072020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Alternativa para esse tempo dificil"
 
-
-
-name="Radio Tops [KodishTeam]"
-url="https://raw.githubusercontent.com/kodishmediacenter/radiostop/master/Plugins/plugin.video.radiostops/plugin.video.radiostops-2.1.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/icon-tops.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versao White Label IPTV Tony Warley S-Block com protecao de versao"
-
 name="Corujinha SP [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/plugin.video.CorujinhaSP.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/icon-corujinhasp.png"
@@ -300,17 +292,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Essa addon French Dj e Demargon e Amobox"
 
-name="Insession [Hiraya]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/plugin.video.insession.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/icon-insession.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="On Air [VariosAutores]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/plugin.audio.onair.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/icon-onair.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Esse Addon Alex303 e Hiraya Software"
 
 name="Elementun Drive [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/plugin.video.elementum.zip"
@@ -382,24 +363,11 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-
-name="Skull Rock [Kodish/Foliver]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04122019/plugin.video.SkullRock.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04122019/icon-SkullRock.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="ok"
-
 name="Red Music[Kodish]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/04122019/plugin.video.redmusic.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/04122019/icon-redmusic.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="ok"
-
-name="Trapalhoes TV"
-url="https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.TrapalhoesTV.zip"
-img="https://pbs.twimg.com/profile_images/2817074487/5d0ea5554e68e6b660d3a0f92ee6af66_400x400.jpeg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
 
 name="PIRATES [CRISESPNL]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/30112018/pirates.zip"
@@ -441,12 +409,6 @@ description="Não necessidade de fresh start"
 name="Caminho Fraterno [Kodish]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/plugin.video.CaminhoFraterno.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/icon-CaminhoFraterno.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Assistir.me [Kodish]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/plugin.video.assistirme.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/02082019/icon-assistirme.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
@@ -520,12 +482,6 @@ description="Não necessidade de fresh start"
 name="Service Pack [Dependencia]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29012019/SP001.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29012019/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Sempre Sertanejo [New Kodish]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15012019/plugin.video.SempreSertanejo.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15012019/icon-SempreSertanejo.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
@@ -725,12 +681,6 @@ description="Não necessidade de fresh start"
 name="Canal da biblia [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/14112017/plugin.video.canaldabiblia.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/14112017/icon-canalbiblia.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-name="Velberan TV [update]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/plugin.video.velberantv.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/kodi-store-17/icon-velberan.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
