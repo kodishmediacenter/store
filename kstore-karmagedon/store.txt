@@ -28,13 +28,13 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
 
-name="Music Brazuka[Fol/KDS]"
+name="Music Brazuka[Foliver]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/plugin.video.musicbrazuka.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-musicbrazuka.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
 
-name="Skull Rock[Fol/KDS]"
+name="Skull Rock[Foliver]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/plugin.video.SkullRock.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-SkullRock.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
