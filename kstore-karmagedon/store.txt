@@ -1,3 +1,9 @@
+name="Gaviao Play [Wilson]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/plugin.video.GAVIAOPLAY.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não necessidade de fresh start"
+
 name="Pikachu [Pikachu]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/plugin.video.pikachu.zip"
 img="https://ia801701.us.archive.org/14/items/plugin.video.pikachu_202009/icon-pikachu.png"
@@ -341,20 +347,11 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/16042020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Patch de Correção para addons point 242 e maxtorrent rodar stremio do windows"
 
-
-name="Gaviao Play [Wilson]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/plugin.video.GAVIAOPLAY.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
 name="CineTorrent [New Glaidson]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/29092019/plugin.video.CineTorrentX.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/29092019/icon.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
-
-
 
 name="Tokuflix [KodishTeam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/plugin.video.tokuflix.zip"
