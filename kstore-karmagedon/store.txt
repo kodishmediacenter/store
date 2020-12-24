@@ -1,3 +1,21 @@
+name="Mega Repo [TonyWarley]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24122020/repo.TWTUTORIAIS.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/24122020/icon.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Tem Vikings não instala pois pode causionar problemas"
+
+name="FlixPremiun [TonyWarley]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.FLIXPemium.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-FLIXPemium.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Não Testei ainda"
+
+name="MM Maroto [KodishTeam]"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.MMmaroto.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07102019/icon.MMmaroto.png"
+fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/07102019/fanart.MMmaroto.jpg"
+description="Não necessidade de fresh start"
+
 name="Gaviao Play [Wilson]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/plugin.video.GAVIAOPLAY.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png"
@@ -34,11 +52,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
 
-name="Loading TV"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/plugin.video.loading.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-loading.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
 
 name="Music Brazuka[Foliver]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/plugin.video.musicbrazuka.zip"
@@ -165,17 +178,7 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita ter Service Pack Instalado"
 
-name="Mega Repo [TonyWarley]"
-url="http://qdodasformiguinhas.site/online/repo.TWTUTORIAIS-5.1.zip"
-img="https://dicasiptv.com/wp-content/uploads/2019/01/Megarepo-Kodi.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Tem Vikings não instala pois pode causionar problemas"
 
-name="FlixPremiun [TonyWarley]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.FLIXPemium.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-FLIXPemium.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Versão Desbloqueada"
 
 name="Tecnolar [Kodishteam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.tecnolar.zip"
@@ -195,11 +198,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-name="MM Maroto [KodishTeam]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.MMmaroto.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07102019/icon.MMmaroto.png"
-fanart="https://raw.githubusercontent.com/kodishmediacenter/store/master/07102019/fanart.MMmaroto.jpg"
-description="Não necessidade de fresh start"
 
 
 name="TeamMilhanos [milhanos]"
