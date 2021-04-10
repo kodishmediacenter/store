@@ -1,8 +1,14 @@
+name="Musica Para"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/plugin.video.MusicaPara.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/icon.MusicaPara.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Suporte ao Kodi 19"
+
 name="InteligenciaLtda"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/plugin.video.InteligenciaLtda.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/icon.InteligenciaLtda.jpg"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Inteligencia Ltda"
+description="Suporte Kodi 19"
 
 name="EnglishMusic"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/plugin.video.EnglishMusic.zip"
