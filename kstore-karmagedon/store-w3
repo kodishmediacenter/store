@@ -1,3 +1,15 @@
+name="BlueJazz"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/09052021/plugin.video.blueandjazz.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/09052021/icon-blueandjazz.jpg"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Suporta conteudos originarios em elementum para rodar no quasar"
+
+name="Sputnik Brasil"
+url="https://raw.githubusercontent.com/kodishmediacenter/store/master/09052021/plugin.video.sputnikbr.zip"
+img="https://raw.githubusercontent.com/kodishmediacenter/store/master/09052021/icon-sputnikbr.png"
+fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
+description="Suporta conteudos originarios em elementum para rodar no quasar"
+
 name="Elementum Drive"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12042021/plugin.video.elementum.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12042021/icon-elementumdrive.png"
