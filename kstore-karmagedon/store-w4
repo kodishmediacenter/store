@@ -120,17 +120,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Addon bom"
 
-name="IDNA [KD18]"
-url="https://mirrors.kodi.tv/addons/krypton/script.module.idna/script.module.idna-2.8.zip"
-img="https://mirror.karneval.cz/pub/xbmc/addons/leia/script.module.idna/resources/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
-
-name="IDNA [KD17]"
-url="https://mirrors.kodi.tv/addons/leia/script.module.idna/script.module.idna-2.8.zip"
-img="https://mirror.karneval.cz/pub/xbmc/addons/leia/script.module.idna/resources/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
 
 name="Radio Tops [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/plugin.video.radiostops.zip"
@@ -313,8 +302,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita ter Service Pack Instalado"
 
-
-
 name="Tecnolar [Kodishteam]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/plugin.video.tecnolar.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-tecnolar.png"
@@ -419,8 +406,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-dummont.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="nnnn"
-
-
 
 name="ROCK4U [SAMI]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/plugin.video.ROCK4U.zip"
