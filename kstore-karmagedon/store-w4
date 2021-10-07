@@ -89,19 +89,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12042021/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Suporta conteudos originarios em elementum para rodar no quasar"
 
-name="Pacotao WebTv"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/imagem.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/icon.webtv.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Pacote de Addons Individuais canais web Tv"
-
-name="Web Tv"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/plugin.video.webtv.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/icon.webtv.jpg"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Suporte ao Kodi 19"
-
-
 name="Musica Para"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/plugin.video.MusicaPara.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/10042021/icon.MusicaPara.jpg"
@@ -161,13 +148,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/22022021/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/22022021/icon-bestthevoice.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Dual Kodi compativel com kodi 16/17/18/19 com fix"
-
-name="TV Fogo [TV Fogo]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/13012021/plugin.video.tvfogo.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/13012021/icon-tvfogo.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Atendendo Pedidos Conselho Guarda-Chuva"
-
 
 name="FREEDDONS [AlanTuring]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/05112020/plugin.video.FREEDDONS.zip"
@@ -269,19 +249,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
 
-
-name="Scooby-Doo"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/28112020/plugin.video.scoobydoo.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/28112020/icon-scoobydoo.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
-
-name="Disney Plus[Imagem]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24112020/disney.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/24112020/icon-disneyplus.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Tem instalar 2x e depois reniciar"
-
 name="DocUfo"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/plugin.video.DocUfo.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-DocUfo.png"
@@ -318,25 +285,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-ntdportugues.jpg"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
-
-name="Cine Series[PauloJr]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.cine-series-3.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-cine-series-3.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
-
-name="Cine Filmes[PauloJr]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/plugin.video.cine-vianna.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-cine-vianna.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
-
-
-name="Torrent Br [TonyWarley]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/22102020/plugin.video.TorrentBR.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/22102020/icon-TorrentBR.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Esse addon necessita do Elementum Instalado"
 
 name="Miracle Music [New]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/plugin.video.MiracleMusic.zip"
@@ -439,17 +387,6 @@ img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07062020/i
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
-
-
-
-name="Youtube-Patch [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/plugin.executable.youtubeapi.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/01032020/icon-youtubepatch.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Esse addon corrige erro project atualizando api caso nao funcione limpe o cache e caso percista reinstale novamente o kodi"
-
-
-
 name="FDJ [FDJ]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/addons.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/icon.png"
@@ -473,12 +410,6 @@ url="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/p
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-ROCK4U.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="nnnn"
-
-name="BrasilFull [BrasilFull]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/30042020/brasilfull.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/30042020/icon-brasilfull.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Cine Antiqua - filmes clássicos"
 
 name="Cine Antiqua[Garfield]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/24032020/plugin.video.CineAntiqua.zip"
@@ -570,13 +501,6 @@ description="ok"
 name="PIRATES [CRISESPNL]"
 url="https://raw.githubusercontent.com/kodishmediacenter/store/master/30112018/pirates.zip"
 img="https://raw.githubusercontent.com/kodishmediacenter/store/master/30112018/icon.png"
-fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
-description="Não necessidade de fresh start"
-
-
-name="G1 Podcast [New]"
-url="https://raw.githubusercontent.com/kodishmediacenter/store/master/13112019/plugin.audio.g1podcasts.zip"
-img="https://raw.githubusercontent.com/kodishmediacenter/store/master/13112019/icon-g1podcasts.png"
 fanart="https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg"
 description="Não necessidade de fresh start"
 
